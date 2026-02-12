@@ -37,10 +37,10 @@ const LoginPage = () => {
     }
 
     return (
-        <div className="min-h-screen flex items-center justify-center">
-            <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
+        <div className="min-h-screen flex items-center justify-center m-auto w-[90%] md:w-full md:max-w-md">
+            <div className="bg-slate-200 p-8 rounded-lg shadow-md w-full">
                 <h1 className="text-2xl font-bold text-center mb-6 text-gray-800">
-                    Vocab Learning
+                    Login
                 </h1>
                 <form onSubmit={handleSubmit} className="space-y-4">
                     <div>

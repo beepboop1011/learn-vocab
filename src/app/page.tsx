@@ -59,9 +59,14 @@ const HomePage = () => {
         <div className="min-h-screen py-12 px-4">
             <div className="lg:w-5/6 md:w-11/12 mx-auto">
                 <div className="flex items-center justify-between mb-8">
-                    <h1 className="text-3xl font-bold text-gray-800">
-                        Today&apos;s Words
-                    </h1>
+                    <div>
+                        <h1 className="text-3xl font-bold text-gray-800">
+                            Today&apos;s Words
+                        </h1>
+                        <p className="text-sm text-gray-500 mt-1">
+                            {new Date().toLocaleDateString('en-US', { timeZone: 'America/New_York', weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}
+                        </p>
+                    </div>
                     <button
                         onClick={handleLogout}
                         className="px-4 py-2 text-sm text-gray-600 hover:text-gray-800 border border-gray-300 rounded-lg hover:bg-slate-200 transition-colors"

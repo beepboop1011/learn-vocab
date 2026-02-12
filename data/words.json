@@ -1,0 +1,1302 @@
+[
+  {
+    "word": "ambitious",
+    "pronunciation": "am-BISH-us",
+    "definition": "Having a strong desire to succeed or achieve goals",
+    "examples": [
+      "She is an ambitious entrepreneur who aims to expand her business globally.",
+      "His ambitious plans require careful preparation and dedication."
+    ],
+    "translations": {
+      "ru": "амбициозный",
+      "kk": "мақсатты"
+    }
+  },
+  {
+    "word": "benevolent",
+    "pronunciation": "buh-NEV-uh-lunt",
+    "definition": "Kind, generous, and caring about others' well-being",
+    "examples": [
+      "The benevolent donor contributed millions to charity.",
+      "She had a benevolent smile that made everyone feel welcome."
+    ],
+    "translations": {
+      "ru": "доброжелательный",
+      "kk": "мейірімді"
+    }
+  },
+  {
+    "word": "cautious",
+    "pronunciation": "KAW-shus",
+    "definition": "Careful to avoid potential problems or dangers",
+    "examples": [
+      "He was cautious when crossing the busy street.",
+      "Investors are being cautious in the current economic climate."
+    ],
+    "translations": {
+      "ru": "осторожный",
+      "kk": "сақ"
+    }
+  },
+  {
+    "word": "diligent",
+    "pronunciation": "DIL-ih-junt",
+    "definition": "Showing careful and persistent work or effort",
+    "examples": [
+      "She is a diligent student who always completes her assignments on time.",
+      "His diligent research led to an important discovery."
+    ],
+    "translations": {
+      "ru": "старательный",
+      "kk": "ұқыпты"
+    }
+  },
+  {
+    "word": "eloquent",
+    "pronunciation": "EL-uh-kwunt",
+    "definition": "Fluent and persuasive in speaking or writing",
+    "examples": [
+      "The eloquent speaker moved the audience to tears.",
+      "Her eloquent writing style captivates readers."
+    ],
+    "translations": {
+      "ru": "красноречивый",
+      "kk": "шешен"
+    }
+  },
+  {
+    "word": "frugal",
+    "pronunciation": "FROO-gul",
+    "definition": "Economical in use or expenditure; not wasteful",
+    "examples": [
+      "He leads a frugal lifestyle to save money for the future.",
+      "Her frugal habits helped her pay off her debt quickly."
+    ],
+    "translations": {
+      "ru": "экономный",
+      "kk": "үнемді"
+    }
+  },
+  {
+    "word": "generous",
+    "pronunciation": "JEN-ur-us",
+    "definition": "Willing to give more than is necessary or expected",
+    "examples": [
+      "She is generous with her time and always helps others.",
+      "The restaurant serves generous portions."
+    ],
+    "translations": {
+      "ru": "щедрый",
+      "kk": "жомарт"
+    }
+  },
+  {
+    "word": "humble",
+    "pronunciation": "HUM-bul",
+    "definition": "Having a modest view of one's own importance",
+    "examples": [
+      "Despite his success, he remained humble and down-to-earth.",
+      "She gave a humble acceptance speech."
+    ],
+    "translations": {
+      "ru": "скромный",
+      "kk": "кішіпейіл"
+    }
+  },
+  {
+    "word": "innovative",
+    "pronunciation": "IN-uh-vay-tiv",
+    "definition": "Introducing new ideas or methods; creative",
+    "examples": [
+      "The company is known for its innovative product designs.",
+      "Her innovative approach solved a long-standing problem."
+    ],
+    "translations": {
+      "ru": "инновационный",
+      "kk": "жаңашыл"
+    }
+  },
+  {
+    "word": "jovial",
+    "pronunciation": "JOH-vee-ul",
+    "definition": "Cheerful and friendly in manner",
+    "examples": [
+      "His jovial personality makes him popular at parties.",
+      "The team maintained a jovial atmosphere despite the pressure."
+    ],
+    "translations": {
+      "ru": "веселый",
+      "kk": "көңілді"
+    }
+  },
+  {
+    "word": "keen",
+    "pronunciation": "KEEN",
+    "definition": "Having or showing eagerness or enthusiasm",
+    "examples": [
+      "She has a keen interest in astronomy.",
+      "He is keen to start his new job."
+    ],
+    "translations": {
+      "ru": "увлеченный",
+      "kk": "ынталы"
+    }
+  },
+  {
+    "word": "lucid",
+    "pronunciation": "LOO-sid",
+    "definition": "Clear and easy to understand",
+    "examples": [
+      "The professor gave a lucid explanation of the complex theory.",
+      "Her lucid writing style makes technical topics accessible."
+    ],
+    "translations": {
+      "ru": "ясный",
+      "kk": "айқын"
+    }
+  },
+  {
+    "word": "meticulous",
+    "pronunciation": "muh-TIK-yoo-lus",
+    "definition": "Showing great attention to detail; very careful",
+    "examples": [
+      "The architect is meticulous in his planning.",
+      "She keeps meticulous records of all expenses."
+    ],
+    "translations": {
+      "ru": "дотошный",
+      "kk": "мұқият"
+    }
+  },
+  {
+    "word": "nostalgic",
+    "pronunciation": "nah-STAL-jik",
+    "definition": "Experiencing a sentimental longing for the past",
+    "examples": [
+      "Looking at old photos made her feel nostalgic.",
+      "The nostalgic song reminded him of his childhood."
+    ],
+    "translations": {
+      "ru": "ностальгический",
+      "kk": "сағыныш"
+    }
+  },
+  {
+    "word": "optimistic",
+    "pronunciation": "op-tih-MIS-tik",
+    "definition": "Hopeful and confident about the future",
+    "examples": [
+      "She remains optimistic despite the challenges.",
+      "Investors are optimistic about the company's prospects."
+    ],
+    "translations": {
+      "ru": "оптимистичный",
+      "kk": "оптимистік"
+    }
+  },
+  {
+    "word": "persistent",
+    "pronunciation": "pur-SIS-tunt",
+    "definition": "Continuing firmly despite difficulty or opposition",
+    "examples": [
+      "His persistent efforts finally paid off.",
+      "She was persistent in pursuing her dreams."
+    ],
+    "translations": {
+      "ru": "настойчивый",
+      "kk": "табанды"
+    }
+  },
+  {
+    "word": "quirky",
+    "pronunciation": "KWUR-kee",
+    "definition": "Having unusual or unexpected characteristics",
+    "examples": [
+      "She has a quirky sense of humor that makes her unique.",
+      "The café has a quirky décor with vintage furniture."
+    ],
+    "translations": {
+      "ru": "причудливый",
+      "kk": "ерекше"
+    }
+  },
+  {
+    "word": "resilient",
+    "pronunciation": "rih-ZIL-ee-unt",
+    "definition": "Able to recover quickly from difficulties",
+    "examples": [
+      "The resilient community rebuilt after the disaster.",
+      "She has a resilient spirit that helps her overcome obstacles."
+    ],
+    "translations": {
+      "ru": "устойчивый",
+      "kk": "төзімді"
+    }
+  },
+  {
+    "word": "sophisticated",
+    "pronunciation": "suh-FIS-tih-kay-tid",
+    "definition": "Complex, refined, or having worldly experience",
+    "examples": [
+      "She wore a sophisticated evening gown to the gala.",
+      "The software uses sophisticated algorithms."
+    ],
+    "translations": {
+      "ru": "утонченный",
+      "kk": "талғампаз"
+    }
+  },
+  {
+    "word": "tranquil",
+    "pronunciation": "TRANG-kwil",
+    "definition": "Calm, peaceful, and quiet",
+    "examples": [
+      "The tranquil lake reflected the mountains perfectly.",
+      "She found the tranquil garden to be the perfect place to relax."
+    ],
+    "translations": {
+      "ru": "спокойный",
+      "kk": "тыныш"
+    }
+  },
+  {
+    "word": "ubiquitous",
+    "pronunciation": "yoo-BIK-wih-tus",
+    "definition": "Present or found everywhere",
+    "examples": [
+      "Smartphones have become ubiquitous in modern society.",
+      "Coffee shops are ubiquitous in this neighborhood."
+    ],
+    "translations": {
+      "ru": "вездесущий",
+      "kk": "барлық жерде кездесетін"
+    }
+  },
+  {
+    "word": "vivid",
+    "pronunciation": "VIV-id",
+    "definition": "Producing strong, clear images in the mind; bright",
+    "examples": [
+      "She has vivid memories of her childhood.",
+      "The artist used vivid colors in the painting."
+    ],
+    "translations": {
+      "ru": "яркий",
+      "kk": "айқын"
+    }
+  },
+  {
+    "word": "wary",
+    "pronunciation": "WAIR-ee",
+    "definition": "Feeling or showing caution about possible dangers",
+    "examples": [
+      "He was wary of strangers asking for money.",
+      "Consumers are wary of products with hidden fees."
+    ],
+    "translations": {
+      "ru": "настороженный",
+      "kk": "сақ"
+    }
+  },
+  {
+    "word": "zealous",
+    "pronunciation": "ZEL-us",
+    "definition": "Having or showing great energy or enthusiasm",
+    "examples": [
+      "She is a zealous advocate for environmental protection.",
+      "His zealous dedication to the project was impressive."
+    ],
+    "translations": {
+      "ru": "ревностный",
+      "kk": "құмар"
+    }
+  },
+  {
+    "word": "articulate",
+    "pronunciation": "ar-TIK-yoo-lut",
+    "definition": "Able to express ideas clearly and effectively",
+    "examples": [
+      "She is an articulate speaker who presents complex ideas simply.",
+      "His articulate argument convinced the committee."
+    ],
+    "translations": {
+      "ru": "красноречивый",
+      "kk": "сөзге шебер"
+    }
+  },
+  {
+    "word": "astute",
+    "pronunciation": "uh-STOOT",
+    "definition": "Having the ability to understand situations quickly",
+    "examples": [
+      "He made an astute observation about the market trends.",
+      "Her astute business decisions led to great success."
+    ],
+    "translations": {
+      "ru": "проницательный",
+      "kk": "зерек"
+    }
+  },
+  {
+    "word": "candid",
+    "pronunciation": "KAN-did",
+    "definition": "Truthful and straightforward; frank",
+    "examples": [
+      "She gave a candid interview about her struggles.",
+      "I appreciate your candid feedback on my work."
+    ],
+    "translations": {
+      "ru": "откровенный",
+      "kk": "ашық"
+    }
+  },
+  {
+    "word": "compassionate",
+    "pronunciation": "kum-PASH-un-ut",
+    "definition": "Feeling or showing sympathy and concern for others",
+    "examples": [
+      "The compassionate nurse comforted the patients.",
+      "He showed compassionate leadership during the crisis."
+    ],
+    "translations": {
+      "ru": "сострадательный",
+      "kk": "мейірімді"
+    }
+  },
+  {
+    "word": "concise",
+    "pronunciation": "kun-SYSE",
+    "definition": "Giving information clearly in few words",
+    "examples": [
+      "The report was concise and easy to understand.",
+      "Please provide a concise summary of the meeting."
+    ],
+    "translations": {
+      "ru": "краткий",
+      "kk": "қысқа"
+    }
+  },
+  {
+    "word": "decisive",
+    "pronunciation": "dih-SY-siv",
+    "definition": "Able to make decisions quickly and effectively",
+    "examples": [
+      "She is a decisive leader who acts with confidence.",
+      "His decisive action prevented a major accident."
+    ],
+    "translations": {
+      "ru": "решительный",
+      "kk": "батыл"
+    }
+  },
+  {
+    "word": "durable",
+    "pronunciation": "DOOR-uh-bul",
+    "definition": "Able to withstand wear, pressure, or damage",
+    "examples": [
+      "These boots are made of durable leather.",
+      "The phone has a durable battery that lasts all day."
+    ],
+    "translations": {
+      "ru": "прочный",
+      "kk": "берік"
+    }
+  },
+  {
+    "word": "eccentric",
+    "pronunciation": "ik-SEN-trik",
+    "definition": "Unconventional and slightly strange in behavior",
+    "examples": [
+      "The eccentric artist lived in a colorful house.",
+      "His eccentric habits make him interesting to be around."
+    ],
+    "translations": {
+      "ru": "эксцентричный",
+      "kk": "ерекше"
+    }
+  },
+  {
+    "word": "efficient",
+    "pronunciation": "ih-FISH-unt",
+    "definition": "Achieving maximum productivity with minimum effort",
+    "examples": [
+      "The new system is more efficient than the old one.",
+      "She has an efficient way of organizing her schedule."
+    ],
+    "translations": {
+      "ru": "эффективный",
+      "kk": "тиімді"
+    }
+  },
+  {
+    "word": "empathetic",
+    "pronunciation": "em-puh-THET-ik",
+    "definition": "Able to understand and share others' feelings",
+    "examples": [
+      "An empathetic teacher can connect with struggling students.",
+      "She gave an empathetic response to his concerns."
+    ],
+    "translations": {
+      "ru": "эмпатичный",
+      "kk": "қанағаттанарлық"
+    }
+  },
+  {
+    "word": "feasible",
+    "pronunciation": "FEE-zuh-bul",
+    "definition": "Possible and practical to do or achieve",
+    "examples": [
+      "The plan seems feasible given our current resources.",
+      "Is it feasible to complete the project by next month?"
+    ],
+    "translations": {
+      "ru": "осуществимый",
+      "kk": "орындалатын"
+    }
+  },
+  {
+    "word": "gracious",
+    "pronunciation": "GRAY-shus",
+    "definition": "Courteous, kind, and pleasant",
+    "examples": [
+      "She was a gracious host who made everyone feel welcome.",
+      "He accepted defeat with gracious dignity."
+    ],
+    "translations": {
+      "ru": "любезный",
+      "kk": "сыпайы"
+    }
+  },
+  {
+    "word": "harmonious",
+    "pronunciation": "har-MOH-nee-us",
+    "definition": "Free from disagreement or conflict; forming a pleasing whole",
+    "examples": [
+      "They have a harmonious relationship built on mutual respect.",
+      "The colors in the painting create a harmonious effect."
+    ],
+    "translations": {
+      "ru": "гармоничный",
+      "kk": "үйлесімді"
+    }
+  },
+  {
+    "word": "impartial",
+    "pronunciation": "im-PAR-shul",
+    "definition": "Fair and unbiased; not favoring one side",
+    "examples": [
+      "The judge remained impartial throughout the trial.",
+      "We need an impartial observer to assess the situation."
+    ],
+    "translations": {
+      "ru": "беспристрастный",
+      "kk": "әділ"
+    }
+  },
+  {
+    "word": "industrious",
+    "pronunciation": "in-DUS-tree-us",
+    "definition": "Hardworking and diligent",
+    "examples": [
+      "The industrious student spent hours studying for exams.",
+      "Her industrious nature helped her succeed in business."
+    ],
+    "translations": {
+      "ru": "трудолюбивый",
+      "kk": "еңбекқор"
+    }
+  },
+  {
+    "word": "intuitive",
+    "pronunciation": "in-TOO-ih-tiv",
+    "definition": "Using or based on instinctive understanding",
+    "examples": [
+      "The app has an intuitive interface that's easy to use.",
+      "She has an intuitive understanding of people's emotions."
+    ],
+    "translations": {
+      "ru": "интуитивный",
+      "kk": "интуитивті"
+    }
+  },
+  {
+    "word": "judicious",
+    "pronunciation": "joo-DISH-us",
+    "definition": "Having or showing good judgment; wise",
+    "examples": [
+      "He made a judicious decision to wait before investing.",
+      "The company took a judicious approach to expansion."
+    ],
+    "translations": {
+      "ru": "разумный",
+      "kk": "ақылды"
+    }
+  },
+  {
+    "word": "meager",
+    "pronunciation": "MEE-gur",
+    "definition": "Lacking in quantity or quality; insufficient",
+    "examples": [
+      "They survived on meager rations during the journey.",
+      "His meager salary barely covered the rent."
+    ],
+    "translations": {
+      "ru": "скудный",
+      "kk": "аз"
+    }
+  },
+  {
+    "word": "methodical",
+    "pronunciation": "muh-THOD-ih-kul",
+    "definition": "Done according to a systematic procedure",
+    "examples": [
+      "She has a methodical approach to problem-solving.",
+      "His methodical research produced reliable results."
+    ],
+    "translations": {
+      "ru": "методичный",
+      "kk": "жүйелі"
+    }
+  },
+  {
+    "word": "modest",
+    "pronunciation": "MOD-ist",
+    "definition": "Unassuming in appearance or behavior; humble",
+    "examples": [
+      "Despite her achievements, she remained modest.",
+      "They live in a modest apartment downtown."
+    ],
+    "translations": {
+      "ru": "скромный",
+      "kk": "қарапайым"
+    }
+  },
+  {
+    "word": "nonchalant",
+    "pronunciation": "non-shuh-LAHNT",
+    "definition": "Casually calm and relaxed; not displaying anxiety",
+    "examples": [
+      "He gave a nonchalant shrug when asked about the incident.",
+      "Her nonchalant attitude masked her nervousness."
+    ],
+    "translations": {
+      "ru": "беззаботный",
+      "kk": "салқын"
+    }
+  },
+  {
+    "word": "objective",
+    "pronunciation": "ub-JEK-tiv",
+    "definition": "Not influenced by personal feelings; impartial",
+    "examples": [
+      "The journalist tried to maintain an objective perspective.",
+      "We need objective data to support this claim."
+    ],
+    "translations": {
+      "ru": "объективный",
+      "kk": "объективті"
+    }
+  },
+  {
+    "word": "perceptive",
+    "pronunciation": "pur-SEP-tiv",
+    "definition": "Having or showing insight and understanding",
+    "examples": [
+      "She is perceptive and notices things others miss.",
+      "His perceptive comments revealed deep understanding."
+    ],
+    "translations": {
+      "ru": "проницательный",
+      "kk": "зерек"
+    }
+  },
+  {
+    "word": "pragmatic",
+    "pronunciation": "prag-MAT-ik",
+    "definition": "Dealing with things practically and realistically",
+    "examples": [
+      "She took a pragmatic approach to solving the problem.",
+      "His pragmatic advice was based on real experience."
+    ],
+    "translations": {
+      "ru": "прагматичный",
+      "kk": "практикалық"
+    }
+  },
+  {
+    "word": "prudent",
+    "pronunciation": "PROO-dunt",
+    "definition": "Acting with care and thought for the future",
+    "examples": [
+      "It would be prudent to save money for emergencies.",
+      "She made a prudent investment in stable stocks."
+    ],
+    "translations": {
+      "ru": "благоразумный",
+      "kk": "сақ"
+    }
+  },
+  {
+    "word": "reliable",
+    "pronunciation": "rih-LY-uh-bul",
+    "definition": "Consistently good in quality or performance",
+    "examples": [
+      "He is a reliable employee who never misses deadlines.",
+      "This car is reliable and rarely breaks down."
+    ],
+    "translations": {
+      "ru": "надежный",
+      "kk": "сенімді"
+    }
+  },
+  {
+    "word": "resourceful",
+    "pronunciation": "rih-ZORS-ful",
+    "definition": "Able to find quick and clever ways to overcome difficulties",
+    "examples": [
+      "The resourceful engineer fixed the machine with spare parts.",
+      "She is resourceful and always finds solutions."
+    ],
+    "translations": {
+      "ru": "находчивый",
+      "kk": "шебер"
+    }
+  },
+  {
+    "word": "serene",
+    "pronunciation": "suh-REEN",
+    "definition": "Calm, peaceful, and untroubled",
+    "examples": [
+      "She had a serene expression on her face.",
+      "The serene countryside offered an escape from city stress."
+    ],
+    "translations": {
+      "ru": "безмятежный",
+      "kk": "тыныш"
+    }
+  },
+  {
+    "word": "sincere",
+    "pronunciation": "sin-SEER",
+    "definition": "Free from pretense or deceit; genuine",
+    "examples": [
+      "She gave a sincere apology for her mistake.",
+      "His sincere interest in helping others is admirable."
+    ],
+    "translations": {
+      "ru": "искренний",
+      "kk": "шынайы"
+    }
+  },
+  {
+    "word": "spontaneous",
+    "pronunciation": "spon-TAY-nee-us",
+    "definition": "Happening or done naturally without planning",
+    "examples": [
+      "They took a spontaneous road trip over the weekend.",
+      "Her spontaneous laughter filled the room with joy."
+    ],
+    "translations": {
+      "ru": "спонтанный",
+      "kk": "кенеттен"
+    }
+  },
+  {
+    "word": "tactful",
+    "pronunciation": "TAKT-ful",
+    "definition": "Having skill in dealing with difficult situations",
+    "examples": [
+      "She gave tactful criticism that didn't offend anyone.",
+      "A tactful manager knows how to handle conflicts."
+    ],
+    "translations": {
+      "ru": "тактичный",
+      "kk": "әдепті"
+    }
+  },
+  {
+    "word": "tenacious",
+    "pronunciation": "tuh-NAY-shus",
+    "definition": "Persistent and determined; not giving up easily",
+    "examples": [
+      "Her tenacious spirit helped her overcome many obstacles.",
+      "The tenacious lawyer fought for justice."
+    ],
+    "translations": {
+      "ru": "упорный",
+      "kk": "табанды"
+    }
+  },
+  {
+    "word": "versatile",
+    "pronunciation": "VUR-suh-tyl",
+    "definition": "Able to adapt to many different functions or activities",
+    "examples": [
+      "He is a versatile actor who plays many different roles.",
+      "This versatile tool can be used for multiple purposes."
+    ],
+    "translations": {
+      "ru": "универсальный",
+      "kk": "көпқырлы"
+    }
+  },
+  {
+    "word": "vigorous",
+    "pronunciation": "VIG-ur-us",
+    "definition": "Strong, healthy, and full of energy",
+    "examples": [
+      "She maintains her health through vigorous exercise.",
+      "The team mounted a vigorous defense of their position."
+    ],
+    "translations": {
+      "ru": "энергичный",
+      "kk": "қуатты"
+    }
+  },
+  {
+    "word": "witty",
+    "pronunciation": "WIT-ee",
+    "definition": "Showing quick and inventive verbal humor",
+    "examples": [
+      "His witty remarks always make people laugh.",
+      "The comedian is known for her witty observations."
+    ],
+    "translations": {
+      "ru": "остроумный",
+      "kk": "тапқыр"
+    }
+  },
+  {
+    "word": "adamant",
+    "pronunciation": "AD-uh-munt",
+    "definition": "Refusing to change one's mind; firm",
+    "examples": [
+      "She was adamant that the meeting should be postponed.",
+      "He remained adamant in his refusal to compromise."
+    ],
+    "translations": {
+      "ru": "непреклонный",
+      "kk": "қатаң"
+    }
+  },
+  {
+    "word": "affable",
+    "pronunciation": "AF-uh-bul",
+    "definition": "Friendly, good-natured, and easy to talk to",
+    "examples": [
+      "The affable host made everyone feel at ease.",
+      "His affable personality makes him popular with colleagues."
+    ],
+    "translations": {
+      "ru": "приветливый",
+      "kk": "жайдары"
+    }
+  },
+  {
+    "word": "agile",
+    "pronunciation": "AJ-ul",
+    "definition": "Able to move quickly and easily; mentally quick",
+    "examples": [
+      "The agile gymnast performed impressive flips.",
+      "She has an agile mind that grasps concepts quickly."
+    ],
+    "translations": {
+      "ru": "проворный",
+      "kk": "шапшаң"
+    }
+  },
+  {
+    "word": "ardent",
+    "pronunciation": "AR-dunt",
+    "definition": "Enthusiastic or passionate about something",
+    "examples": [
+      "She is an ardent supporter of environmental causes.",
+      "His ardent desire to succeed drove him forward."
+    ],
+    "translations": {
+      "ru": "пылкий",
+      "kk": "қызу"
+    }
+  },
+  {
+    "word": "auspicious",
+    "pronunciation": "aw-SPISH-us",
+    "definition": "Indicating a good chance of success; favorable",
+    "examples": [
+      "The project had an auspicious beginning.",
+      "They considered it an auspicious day for the wedding."
+    ],
+    "translations": {
+      "ru": "благоприятный",
+      "kk": "қолайлы"
+    }
+  },
+  {
+    "word": "austere",
+    "pronunciation": "aw-STEER",
+    "definition": "Severe or strict in manner; without comfort",
+    "examples": [
+      "The monastery had austere living conditions.",
+      "He maintained an austere lifestyle with few luxuries."
+    ],
+    "translations": {
+      "ru": "строгий",
+      "kk": "қатал"
+    }
+  },
+  {
+    "word": "brisk",
+    "pronunciation": "BRISK",
+    "definition": "Active, fast, and energetic",
+    "examples": [
+      "They took a brisk walk in the morning air.",
+      "Business has been brisk since the store reopened."
+    ],
+    "translations": {
+      "ru": "бодрый",
+      "kk": "жылдам"
+    }
+  },
+  {
+    "word": "coherent",
+    "pronunciation": "koh-HEER-unt",
+    "definition": "Logical, consistent, and easy to understand",
+    "examples": [
+      "She presented a coherent argument for the proposal.",
+      "His thoughts were no longer coherent after the accident."
+    ],
+    "translations": {
+      "ru": "связный",
+      "kk": "логикалық"
+    }
+  },
+  {
+    "word": "conscientious",
+    "pronunciation": "kon-shee-EN-shus",
+    "definition": "Wishing to do what is right; careful and thorough",
+    "examples": [
+      "He is a conscientious worker who takes pride in his job.",
+      "She made a conscientious effort to improve her skills."
+    ],
+    "translations": {
+      "ru": "добросовестный",
+      "kk": "ар-ождандық"
+    }
+  },
+  {
+    "word": "cordial",
+    "pronunciation": "KOR-jul",
+    "definition": "Warm and friendly in manner",
+    "examples": [
+      "They received a cordial welcome from their hosts.",
+      "The meeting ended on cordial terms."
+    ],
+    "translations": {
+      "ru": "сердечный",
+      "kk": "жылы"
+    }
+  },
+  {
+    "word": "credible",
+    "pronunciation": "KRED-uh-bul",
+    "definition": "Able to be believed; convincing",
+    "examples": [
+      "She is a credible witness with no reason to lie.",
+      "The report provides credible evidence for the claims."
+    ],
+    "translations": {
+      "ru": "достоверный",
+      "kk": "сенімді"
+    }
+  },
+  {
+    "word": "delicate",
+    "pronunciation": "DEL-ih-kut",
+    "definition": "Easily broken or damaged; requiring careful handling",
+    "examples": [
+      "Handle the delicate glassware with care.",
+      "This is a delicate situation that requires tact."
+    ],
+    "translations": {
+      "ru": "деликатный",
+      "kk": "нәзік"
+    }
+  },
+  {
+    "word": "discreet",
+    "pronunciation": "dih-SKREET",
+    "definition": "Careful not to cause embarrassment or attract attention",
+    "examples": [
+      "She was discreet about her personal life.",
+      "The detective conducted a discreet investigation."
+    ],
+    "translations": {
+      "ru": "тактичный",
+      "kk": "абайлы"
+    }
+  },
+  {
+    "word": "dynamic",
+    "pronunciation": "dy-NAM-ik",
+    "definition": "Full of energy and new ideas; constantly changing",
+    "examples": [
+      "She is a dynamic leader who inspires her team.",
+      "The city has a dynamic economy with many startups."
+    ],
+    "translations": {
+      "ru": "динамичный",
+      "kk": "серпінді"
+    }
+  },
+  {
+    "word": "explicit",
+    "pronunciation": "ik-SPLIS-it",
+    "definition": "Stated clearly and in detail, leaving no room for confusion",
+    "examples": [
+      "The instructions were explicit and easy to follow.",
+      "He gave explicit permission to use his work."
+    ],
+    "translations": {
+      "ru": "явный",
+      "kk": "нақты"
+    }
+  },
+  {
+    "word": "fervent",
+    "pronunciation": "FUR-vunt",
+    "definition": "Having or displaying passionate intensity",
+    "examples": [
+      "She made a fervent plea for peace.",
+      "His fervent belief in justice motivated his actions."
+    ],
+    "translations": {
+      "ru": "пламенный",
+      "kk": "ыстық"
+    }
+  },
+  {
+    "word": "formidable",
+    "pronunciation": "FOR-mid-uh-bul",
+    "definition": "Inspiring fear or respect through being large or powerful",
+    "examples": [
+      "She is a formidable opponent in debates.",
+      "The team faces a formidable challenge ahead."
+    ],
+    "translations": {
+      "ru": "грозный",
+      "kk": "қорқынышты"
+    }
+  },
+  {
+    "word": "gregarious",
+    "pronunciation": "grih-GAIR-ee-us",
+    "definition": "Fond of company; sociable",
+    "examples": [
+      "He has a gregarious personality and loves parties.",
+      "Gregarious animals prefer to live in groups."
+    ],
+    "translations": {
+      "ru": "общительный",
+      "kk": "қарым-қатынасты"
+    }
+  },
+  {
+    "word": "impeccable",
+    "pronunciation": "im-PEK-uh-bul",
+    "definition": "In accordance with the highest standards; faultless",
+    "examples": [
+      "She has impeccable taste in fashion.",
+      "His impeccable manners impressed everyone."
+    ],
+    "translations": {
+      "ru": "безупречный",
+      "kk": "мінсіз"
+    }
+  },
+  {
+    "word": "innate",
+    "pronunciation": "ih-NAYT",
+    "definition": "Inborn; natural rather than learned",
+    "examples": [
+      "She has an innate talent for music.",
+      "His innate curiosity drives his research."
+    ],
+    "translations": {
+      "ru": "врожденный",
+      "kk": "туа біткен"
+    }
+  },
+  {
+    "word": "lavish",
+    "pronunciation": "LAV-ish",
+    "definition": "Very rich, elaborate, or luxurious",
+    "examples": [
+      "They hosted a lavish wedding ceremony.",
+      "The hotel room had lavish decorations."
+    ],
+    "translations": {
+      "ru": "роскошный",
+      "kk": "салтанатты"
+    }
+  },
+  {
+    "word": "lenient",
+    "pronunciation": "LEE-nee-unt",
+    "definition": "Permissive, merciful, or tolerant",
+    "examples": [
+      "The teacher was lenient with late assignments.",
+      "The judge gave a lenient sentence."
+    ],
+    "translations": {
+      "ru": "снисходительный",
+      "kk": "жұмсақ"
+    }
+  },
+  {
+    "word": "adept",
+    "pronunciation": "uh-DEPT",
+    "definition": "Very skilled or proficient at something",
+    "examples": [
+      "She is adept at handling difficult conversations.",
+      "The adept programmer solved the bug in minutes."
+    ],
+    "translations": {
+      "ru": "искусный",
+      "kk": "шебер"
+    }
+  },
+  {
+    "word": "benign",
+    "pronunciation": "bih-NYNE",
+    "definition": "Gentle and kind; not harmful",
+    "examples": [
+      "The doctor confirmed the tumor was benign.",
+      "He has a benign nature that puts people at ease."
+    ],
+    "translations": {
+      "ru": "доброкачественный",
+      "kk": "зиянсыз"
+    }
+  },
+  {
+    "word": "cognizant",
+    "pronunciation": "KOG-nih-zunt",
+    "definition": "Having knowledge or awareness of something",
+    "examples": [
+      "She was cognizant of the risks before making her decision.",
+      "Leaders must be cognizant of their team's well-being."
+    ],
+    "translations": {
+      "ru": "осведомленный",
+      "kk": "хабардар"
+    }
+  },
+  {
+    "word": "debonair",
+    "pronunciation": "deb-uh-NAIR",
+    "definition": "Confident, stylish, and charming in manner",
+    "examples": [
+      "The debonair gentleman impressed everyone at the gala.",
+      "He had a debonair smile that won people over instantly."
+    ],
+    "translations": {
+      "ru": "обходительный",
+      "kk": "сүйкімді"
+    }
+  },
+  {
+    "word": "enigmatic",
+    "pronunciation": "en-ig-MAT-ik",
+    "definition": "Mysterious and difficult to understand",
+    "examples": [
+      "The enigmatic painting left viewers puzzled for centuries.",
+      "She gave an enigmatic smile and walked away."
+    ],
+    "translations": {
+      "ru": "загадочный",
+      "kk": "жұмбақ"
+    }
+  },
+  {
+    "word": "fastidious",
+    "pronunciation": "fa-STID-ee-us",
+    "definition": "Very attentive to accuracy and detail",
+    "examples": [
+      "She is fastidious about keeping her workspace clean.",
+      "The fastidious editor caught every spelling error."
+    ],
+    "translations": {
+      "ru": "привередливый",
+      "kk": "талғампаз"
+    }
+  },
+  {
+    "word": "gallant",
+    "pronunciation": "GAL-unt",
+    "definition": "Brave, heroic, and chivalrous",
+    "examples": [
+      "The gallant firefighter rescued the family from the blaze.",
+      "He made a gallant effort to finish the race despite his injury."
+    ],
+    "translations": {
+      "ru": "доблестный",
+      "kk": "батыр"
+    }
+  },
+  {
+    "word": "intrepid",
+    "pronunciation": "in-TREP-id",
+    "definition": "Fearless and adventurous",
+    "examples": [
+      "The intrepid explorer ventured deep into the jungle.",
+      "Her intrepid attitude inspired the rest of the team."
+    ],
+    "translations": {
+      "ru": "бесстрашный",
+      "kk": "батыл"
+    }
+  },
+  {
+    "word": "jubilant",
+    "pronunciation": "JOO-bih-lunt",
+    "definition": "Feeling or expressing great happiness and triumph",
+    "examples": [
+      "The jubilant crowd celebrated the team's victory.",
+      "She was jubilant after receiving her acceptance letter."
+    ],
+    "translations": {
+      "ru": "ликующий",
+      "kk": "қуанышты"
+    }
+  },
+  {
+    "word": "magnanimous",
+    "pronunciation": "mag-NAN-ih-mus",
+    "definition": "Very generous or forgiving, especially toward a rival",
+    "examples": [
+      "The magnanimous winner congratulated his opponent warmly.",
+      "She made a magnanimous donation to the local shelter."
+    ],
+    "translations": {
+      "ru": "великодушный",
+      "kk": "кеңпейіл"
+    }
+  },
+  {
+    "word": "nimble",
+    "pronunciation": "NIM-bul",
+    "definition": "Quick and light in movement or thought",
+    "examples": [
+      "The nimble dancer moved gracefully across the stage.",
+      "His nimble mind allowed him to solve puzzles quickly."
+    ],
+    "translations": {
+      "ru": "проворный",
+      "kk": "епті"
+    }
+  },
+  {
+    "word": "opulent",
+    "pronunciation": "OP-yoo-lunt",
+    "definition": "Ostentatiously rich and luxurious",
+    "examples": [
+      "The hotel lobby had an opulent design with marble floors.",
+      "They lived in an opulent mansion overlooking the sea."
+    ],
+    "translations": {
+      "ru": "роскошный",
+      "kk": "сәулетті"
+    }
+  },
+  {
+    "word": "pensive",
+    "pronunciation": "PEN-siv",
+    "definition": "Engaged in deep or serious thought",
+    "examples": [
+      "She sat in pensive silence, staring out the window.",
+      "He had a pensive look on his face during the meeting."
+    ],
+    "translations": {
+      "ru": "задумчивый",
+      "kk": "ойшыл"
+    }
+  },
+  {
+    "word": "quintessential",
+    "pronunciation": "kwin-tuh-SEN-shul",
+    "definition": "Representing the most perfect example of something",
+    "examples": [
+      "She is the quintessential professional in her field.",
+      "The café is the quintessential neighborhood gathering spot."
+    ],
+    "translations": {
+      "ru": "типичный",
+      "kk": "үлгілі"
+    }
+  },
+  {
+    "word": "revered",
+    "pronunciation": "rih-VEERD",
+    "definition": "Deeply respected and admired",
+    "examples": [
+      "The revered professor was known for his groundbreaking research.",
+      "She is revered by her colleagues for her dedication."
+    ],
+    "translations": {
+      "ru": "почитаемый",
+      "kk": "құрметті"
+    }
+  },
+  {
+    "word": "stoic",
+    "pronunciation": "STOH-ik",
+    "definition": "Enduring pain or hardship without showing emotion",
+    "examples": [
+      "He remained stoic throughout the difficult trial.",
+      "Her stoic demeanor hid the turmoil she felt inside."
+    ],
+    "translations": {
+      "ru": "стоический",
+      "kk": "шыдамды"
+    }
+  },
+  {
+    "word": "tenuous",
+    "pronunciation": "TEN-yoo-us",
+    "definition": "Very weak or slight; lacking substance",
+    "examples": [
+      "The connection between the two events was tenuous at best.",
+      "He had a tenuous grasp on the subject matter."
+    ],
+    "translations": {
+      "ru": "слабый",
+      "kk": "әлсіз"
+    }
+  },
+  {
+    "word": "voracious",
+    "pronunciation": "vor-AY-shus",
+    "definition": "Having a very eager approach to an activity",
+    "examples": [
+      "She is a voracious reader who finishes a book every week.",
+      "His voracious appetite for knowledge led him to study abroad."
+    ],
+    "translations": {
+      "ru": "ненасытный",
+      "kk": "құмар"
+    }
+  },
+  {
+    "word": "whimsical",
+    "pronunciation": "WIM-zih-kul",
+    "definition": "Playfully quaint or fanciful, especially in an appealing way",
+    "examples": [
+      "The children's book had whimsical illustrations.",
+      "She decorated her room with whimsical fairy lights and paper lanterns."
+    ],
+    "translations": {
+      "ru": "причудливый",
+      "kk": "қиялшыл"
+    }
+  }
+]

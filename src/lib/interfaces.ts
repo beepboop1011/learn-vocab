@@ -14,6 +14,10 @@ export interface Word {
     createdAt: Date
 }
 
+export interface WordWithLearnedDate extends Word {
+    learnedAt: Date
+}
+
 export interface LearnedWord {
     _id: ObjectId
     userId: ObjectId

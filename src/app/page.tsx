@@ -3,13 +3,13 @@
 import { useEffect, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { WordInfo } from '@/components/word-info'
-import { Word } from '@/lib/interfaces'
+import { Word, WordWithLearnedDate } from '@/lib/interfaces'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
 const HomePage = () => {
     const router = useRouter()
     const [words, setWords] = useState<Word[]>([])
-    const [previousWords, setPreviousWords] = useState<Word[]>([])
+    const [previousWords, setPreviousWords] = useState<WordWithLearnedDate[]>([])
     const [expandedId, setExpandedId] = useState<string | null>(null)
     const [loading, setLoading] = useState(true)
     const [error, setError] = useState('')

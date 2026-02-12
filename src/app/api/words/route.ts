@@ -3,6 +3,8 @@ import { getSession } from '@/lib/auth'
 import MongoManager from '@/lib/mongodb'
 import { WORDS_COLLECTION, LEARNED_WORDS_COLLECTION, LearnedWord } from '@/lib/interfaces'
 
+export const dynamic = 'force-dynamic'
+
 const getTodayRangeET = (): { start: Date, end: Date } => {
     const now = new Date()
     const et = new Date(now.toLocaleString('en-US', { timeZone: 'America/New_York' }))

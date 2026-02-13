@@ -4,8 +4,16 @@
     "pronunciation": "am-BISH-us",
     "definition": "Having a strong desire to succeed or achieve goals",
     "examples": [
-      "She is an ambitious entrepreneur who aims to expand her business globally.",
-      "His ambitious plans require careful preparation and dedication."
+      {
+        "en": "She is an ambitious entrepreneur who aims to expand her business globally.",
+        "ru": "Она амбициозный предприниматель, которая стремится вывести свой бизнес на мировой уровень.",
+        "kk": "Ол бизнесін әлемдік деңгейге шығаруды мақсат еткен амбициялы кәсіпкер."
+      },
+      {
+        "en": "His ambitious plans require careful preparation and dedication.",
+        "ru": "Его амбициозные планы требуют тщательной подготовки и самоотдачи.",
+        "kk": "Оның амбициялы жоспарлары мұқият дайындық пен берілгендікті талап етеді."
+      }
     ],
     "translations": {
       "ru": "амбициозный",
@@ -17,8 +25,16 @@
     "pronunciation": "buh-NEV-uh-lunt",
     "definition": "Kind, generous, and caring about others' well-being",
     "examples": [
-      "The benevolent donor contributed millions to charity.",
-      "She had a benevolent smile that made everyone feel welcome."
+      {
+        "en": "The benevolent donor contributed millions to charity.",
+        "ru": "Щедрый благотворитель пожертвовал миллионы на благотворительность.",
+        "kk": "Қайырымды демеуші миллиондаған қаражатты қайырымдылыққа жұмсады."
+      },
+      {
+        "en": "She had a benevolent smile that made everyone feel welcome.",
+        "ru": "У неё была добрая улыбка, благодаря которой каждый чувствовал себя желанным гостем.",
+        "kk": "Оның мейірімді күлкісі барлығын өзін қош келді сезіндіретін."
+      }
     ],
     "translations": {
       "ru": "доброжелательный",
@@ -30,8 +46,16 @@
     "pronunciation": "KAW-shus",
     "definition": "Careful to avoid potential problems or dangers",
     "examples": [
-      "He was cautious when crossing the busy street.",
-      "Investors are being cautious in the current economic climate."
+      {
+        "en": "He was cautious when crossing the busy street.",
+        "ru": "Он был осторожен, переходя оживлённую улицу.",
+        "kk": "Ол көлігі көп көшені кесіп өткенде сақ болды."
+      },
+      {
+        "en": "Investors are being cautious in the current economic climate.",
+        "ru": "Инвесторы проявляют осторожность в нынешних экономических условиях.",
+        "kk": "Инвесторлар қазіргі экономикалық жағдайда сақтықпен әрекет етуде."
+      }
     ],
     "translations": {
       "ru": "осторожный",
@@ -43,8 +67,16 @@
     "pronunciation": "DIL-ih-junt",
     "definition": "Showing careful and persistent work or effort",
     "examples": [
-      "She is a diligent student who always completes her assignments on time.",
-      "His diligent research led to an important discovery."
+      {
+        "en": "She is a diligent student who always completes her assignments on time.",
+        "ru": "Она прилежная студентка, которая всегда выполняет задания вовремя.",
+        "kk": "Ол тапсырмаларын әрқашан уақытында орындайтын тынымсыз студент."
+      },
+      {
+        "en": "His diligent research led to an important discovery.",
+        "ru": "Его усердные исследования привели к важному открытию.",
+        "kk": "Оның табанды зерттеуі маңызды жаңалық ашуға әкелді."
+      }
     ],
     "translations": {
       "ru": "старательный",
@@ -56,8 +88,16 @@
     "pronunciation": "EL-uh-kwunt",
     "definition": "Fluent and persuasive in speaking or writing",
     "examples": [
-      "The eloquent speaker moved the audience to tears.",
-      "Her eloquent writing style captivates readers."
+      {
+        "en": "The eloquent speaker moved the audience to tears.",
+        "ru": "Красноречивый оратор растрогал аудиторию до слёз.",
+        "kk": "Шешен сөйлеуші тыңдаушыларды жылатып жіберді."
+      },
+      {
+        "en": "Her eloquent writing style captivates readers.",
+        "ru": "Её красноречивый стиль письма завораживает читателей.",
+        "kk": "Оның шешен жазу стилі оқырмандарды баурап алады."
+      }
     ],
     "translations": {
       "ru": "красноречивый",
@@ -69,8 +109,16 @@
     "pronunciation": "FROO-gul",
     "definition": "Economical in use or expenditure; not wasteful",
     "examples": [
-      "He leads a frugal lifestyle to save money for the future.",
-      "Her frugal habits helped her pay off her debt quickly."
+      {
+        "en": "He leads a frugal lifestyle to save money for the future.",
+        "ru": "Он ведёт экономный образ жизни, чтобы копить деньги на будущее.",
+        "kk": "Ол болашаққа ақша жинау үшін үнемді өмір салтын ұстанады."
+      },
+      {
+        "en": "Her frugal habits helped her pay off her debt quickly.",
+        "ru": "Её привычка экономить помогла ей быстро погасить долг.",
+        "kk": "Оның үнемшіл әдеттері қарызын тез өтеуіне көмектесті."
+      }
     ],
     "translations": {
       "ru": "экономный",
@@ -82,8 +130,16 @@
     "pronunciation": "JEN-ur-us",
     "definition": "Willing to give more than is necessary or expected",
     "examples": [
-      "She is generous with her time and always helps others.",
-      "The restaurant serves generous portions."
+      {
+        "en": "She is generous with her time and always helps others.",
+        "ru": "Она щедро делится своим временем и всегда помогает другим.",
+        "kk": "Ол уақытын аямайды және әрқашан басқаларға көмектеседі."
+      },
+      {
+        "en": "The restaurant serves generous portions.",
+        "ru": "В этом ресторане подают щедрые порции.",
+        "kk": "Мейрамхана мол мөлшерде тамақ ұсынады."
+      }
     ],
     "translations": {
       "ru": "щедрый",
@@ -95,8 +151,16 @@
     "pronunciation": "HUM-bul",
     "definition": "Having a modest view of one's own importance",
     "examples": [
-      "Despite his success, he remained humble and down-to-earth.",
-      "She gave a humble acceptance speech."
+      {
+        "en": "Despite his success, he remained humble and down-to-earth.",
+        "ru": "Несмотря на успех, он оставался скромным и простым в общении.",
+        "kk": "Табысына қарамастан, ол кішіпейіл және қарапайым болып қала берді."
+      },
+      {
+        "en": "She gave a humble acceptance speech.",
+        "ru": "Она произнесла скромную благодарственную речь.",
+        "kk": "Ол кішіпейіл алғыс сөзін айтты."
+      }
     ],
     "translations": {
       "ru": "скромный",
@@ -108,8 +172,16 @@
     "pronunciation": "IN-uh-vay-tiv",
     "definition": "Introducing new ideas or methods; creative",
     "examples": [
-      "The company is known for its innovative product designs.",
-      "Her innovative approach solved a long-standing problem."
+      {
+        "en": "The company is known for its innovative product designs.",
+        "ru": "Компания известна своими инновационными разработками продуктов.",
+        "kk": "Компания инновациялық өнім дизайнымен танымал."
+      },
+      {
+        "en": "Her innovative approach solved a long-standing problem.",
+        "ru": "Её новаторский подход решил давнюю проблему.",
+        "kk": "Оның жаңашыл тәсілі көптен бері шешілмеген мәселені шешті."
+      }
     ],
     "translations": {
       "ru": "инновационный",
@@ -121,8 +193,16 @@
     "pronunciation": "JOH-vee-ul",
     "definition": "Cheerful and friendly in manner",
     "examples": [
-      "His jovial personality makes him popular at parties.",
-      "The team maintained a jovial atmosphere despite the pressure."
+      {
+        "en": "His jovial personality makes him popular at parties.",
+        "ru": "Его жизнерадостный характер делает его душой компании на вечеринках.",
+        "kk": "Оның көңілді мінезі оны кештерде бәрінің сүйіктісіне айналдырады."
+      },
+      {
+        "en": "The team maintained a jovial atmosphere despite the pressure.",
+        "ru": "Команда сохраняла весёлую атмосферу, несмотря на давление.",
+        "kk": "Команда қысымға қарамастан көңілді атмосфераны сақтап қалды."
+      }
     ],
     "translations": {
       "ru": "веселый",
@@ -134,8 +214,16 @@
     "pronunciation": "KEEN",
     "definition": "Having or showing eagerness or enthusiasm",
     "examples": [
-      "She has a keen interest in astronomy.",
-      "He is keen to start his new job."
+      {
+        "en": "She has a keen interest in astronomy.",
+        "ru": "Она проявляет живой интерес к астрономии.",
+        "kk": "Оның астрономияға деген қызығушылығы зор."
+      },
+      {
+        "en": "He is keen to start his new job.",
+        "ru": "Он с нетерпением ждёт начала своей новой работы.",
+        "kk": "Ол жаңа жұмысын бастауға құлшынып тұр."
+      }
     ],
     "translations": {
       "ru": "увлеченный",
@@ -147,8 +235,16 @@
     "pronunciation": "LOO-sid",
     "definition": "Clear and easy to understand",
     "examples": [
-      "The professor gave a lucid explanation of the complex theory.",
-      "Her lucid writing style makes technical topics accessible."
+      {
+        "en": "The professor gave a lucid explanation of the complex theory.",
+        "ru": "Профессор дал ясное объяснение сложной теории.",
+        "kk": "Профессор күрделі теорияға анық түсініктеме берді."
+      },
+      {
+        "en": "Her lucid writing style makes technical topics accessible.",
+        "ru": "Её ясный стиль изложения делает технические темы доступными для понимания.",
+        "kk": "Оның анық жазу стилі техникалық тақырыптарды түсінікті етеді."
+      }
     ],
     "translations": {
       "ru": "ясный",
@@ -160,8 +256,16 @@
     "pronunciation": "muh-TIK-yoo-lus",
     "definition": "Showing great attention to detail; very careful",
     "examples": [
-      "The architect is meticulous in his planning.",
-      "She keeps meticulous records of all expenses."
+      {
+        "en": "The architect is meticulous in his planning.",
+        "ru": "Архитектор скрупулёзен в своём планировании.",
+        "kk": "Сәулетші жоспарлауда өте ұқыпты."
+      },
+      {
+        "en": "She keeps meticulous records of all expenses.",
+        "ru": "Она ведёт тщательный учёт всех расходов.",
+        "kk": "Ол барлық шығындардың мұқият есебін жүргізеді."
+      }
     ],
     "translations": {
       "ru": "дотошный",
@@ -173,8 +277,16 @@
     "pronunciation": "nah-STAL-jik",
     "definition": "Experiencing a sentimental longing for the past",
     "examples": [
-      "Looking at old photos made her feel nostalgic.",
-      "The nostalgic song reminded him of his childhood."
+      {
+        "en": "Looking at old photos made her feel nostalgic.",
+        "ru": "Просматривая старые фотографии, она испытала ностальгию.",
+        "kk": "Ескі суреттерге қарағанда оның сағынышы оянды."
+      },
+      {
+        "en": "The nostalgic song reminded him of his childhood.",
+        "ru": "Ностальгическая песня напомнила ему о детстве.",
+        "kk": "Сағыныш толы ән оған балалық шағын еске салды."
+      }
     ],
     "translations": {
       "ru": "ностальгический",
@@ -186,8 +298,16 @@
     "pronunciation": "op-tih-MIS-tik",
     "definition": "Hopeful and confident about the future",
     "examples": [
-      "She remains optimistic despite the challenges.",
-      "Investors are optimistic about the company's prospects."
+      {
+        "en": "She remains optimistic despite the challenges.",
+        "ru": "Она сохраняет оптимизм, несмотря на трудности.",
+        "kk": "Ол қиындықтарға қарамастан оптимист болып қала береді."
+      },
+      {
+        "en": "Investors are optimistic about the company's prospects.",
+        "ru": "Инвесторы оптимистично оценивают перспективы компании.",
+        "kk": "Инвесторлар компанияның болашағына оптимистік көзқараспен қарайды."
+      }
     ],
     "translations": {
       "ru": "оптимистичный",
@@ -199,8 +319,16 @@
     "pronunciation": "pur-SIS-tunt",
     "definition": "Continuing firmly despite difficulty or opposition",
     "examples": [
-      "His persistent efforts finally paid off.",
-      "She was persistent in pursuing her dreams."
+      {
+        "en": "His persistent efforts finally paid off.",
+        "ru": "Его настойчивые усилия наконец принесли результат.",
+        "kk": "Оның табанды күш-жігері ақыры жемісін берді."
+      },
+      {
+        "en": "She was persistent in pursuing her dreams.",
+        "ru": "Она была настойчива в осуществлении своей мечты.",
+        "kk": "Ол арманына жетуде табанды болды."
+      }
     ],
     "translations": {
       "ru": "настойчивый",
@@ -212,8 +340,16 @@
     "pronunciation": "KWUR-kee",
     "definition": "Having unusual or unexpected characteristics",
     "examples": [
-      "She has a quirky sense of humor that makes her unique.",
-      "The café has a quirky décor with vintage furniture."
+      {
+        "en": "She has a quirky sense of humor that makes her unique.",
+        "ru": "У неё своеобразное чувство юмора, которое делает её особенной.",
+        "kk": "Оның өзіне тән ерекше юмор сезімі оны басқалардан ерекшелейді."
+      },
+      {
+        "en": "The café has a quirky décor with vintage furniture.",
+        "ru": "В кафе необычный интерьер с винтажной мебелью.",
+        "kk": "Кафенің винтаждық жиһазбен безендірілген ерекше интерьері бар."
+      }
     ],
     "translations": {
       "ru": "причудливый",
@@ -225,8 +361,16 @@
     "pronunciation": "rih-ZIL-ee-unt",
     "definition": "Able to recover quickly from difficulties",
     "examples": [
-      "The resilient community rebuilt after the disaster.",
-      "She has a resilient spirit that helps her overcome obstacles."
+      {
+        "en": "The resilient community rebuilt after the disaster.",
+        "ru": "Стойкое сообщество восстановилось после катастрофы.",
+        "kk": "Төзімді қоғамдастық апаттан кейін қайта құрылды."
+      },
+      {
+        "en": "She has a resilient spirit that helps her overcome obstacles.",
+        "ru": "У неё стойкий дух, который помогает ей преодолевать препятствия.",
+        "kk": "Оның кедергілерді жеңуге көмектесетін берік рухы бар."
+      }
     ],
     "translations": {
       "ru": "устойчивый",
@@ -238,8 +382,16 @@
     "pronunciation": "suh-FIS-tih-kay-tid",
     "definition": "Complex, refined, or having worldly experience",
     "examples": [
-      "She wore a sophisticated evening gown to the gala.",
-      "The software uses sophisticated algorithms."
+      {
+        "en": "She wore a sophisticated evening gown to the gala.",
+        "ru": "Она надела изысканное вечернее платье на торжественный приём.",
+        "kk": "Ол салтанатты кешке сәнді кешкі көйлек киді."
+      },
+      {
+        "en": "The software uses sophisticated algorithms.",
+        "ru": "Программное обеспечение использует сложные алгоритмы.",
+        "kk": "Бағдарламалық жасақтама күрделі алгоритмдерді қолданады."
+      }
     ],
     "translations": {
       "ru": "утонченный",
@@ -251,8 +403,16 @@
     "pronunciation": "TRANG-kwil",
     "definition": "Calm, peaceful, and quiet",
     "examples": [
-      "The tranquil lake reflected the mountains perfectly.",
-      "She found the tranquil garden to be the perfect place to relax."
+      {
+        "en": "The tranquil lake reflected the mountains perfectly.",
+        "ru": "Безмятежное озеро идеально отражало горы.",
+        "kk": "Тыныш көл тауларды мінсіз шағылыстырды."
+      },
+      {
+        "en": "She found the tranquil garden to be the perfect place to relax.",
+        "ru": "Она нашла в тихом саду идеальное место для отдыха.",
+        "kk": "Ол тыныш бақты демалу үшін тамаша орын деп тапты."
+      }
     ],
     "translations": {
       "ru": "спокойный",
@@ -264,8 +424,16 @@
     "pronunciation": "yoo-BIK-wih-tus",
     "definition": "Present or found everywhere",
     "examples": [
-      "Smartphones have become ubiquitous in modern society.",
-      "Coffee shops are ubiquitous in this neighborhood."
+      {
+        "en": "Smartphones have become ubiquitous in modern society.",
+        "ru": "Смартфоны стали повсеместным явлением в современном обществе.",
+        "kk": "Смартфондар қазіргі қоғамда кең тарады."
+      },
+      {
+        "en": "Coffee shops are ubiquitous in this neighborhood.",
+        "ru": "Кофейни встречаются на каждом шагу в этом районе.",
+        "kk": "Бұл ауданда кофеханалар қадам сайын кездеседі."
+      }
     ],
     "translations": {
       "ru": "вездесущий",
@@ -277,8 +445,16 @@
     "pronunciation": "VIV-id",
     "definition": "Producing strong, clear images in the mind; bright",
     "examples": [
-      "She has vivid memories of her childhood.",
-      "The artist used vivid colors in the painting."
+      {
+        "en": "She has vivid memories of her childhood.",
+        "ru": "У неё яркие воспоминания о детстве.",
+        "kk": "Оның балалық шағы туралы жарқын естеліктері бар."
+      },
+      {
+        "en": "The artist used vivid colors in the painting.",
+        "ru": "Художник использовал яркие цвета в картине.",
+        "kk": "Суретші картинада ашық түстерді қолданды."
+      }
     ],
     "translations": {
       "ru": "яркий",
@@ -290,8 +466,16 @@
     "pronunciation": "WAIR-ee",
     "definition": "Feeling or showing caution about possible dangers",
     "examples": [
-      "He was wary of strangers asking for money.",
-      "Consumers are wary of products with hidden fees."
+      {
+        "en": "He was wary of strangers asking for money.",
+        "ru": "Он с опаской относился к незнакомцам, просящим деньги.",
+        "kk": "Ол ақша сұрайтын бейтаныс адамдардан сақтанды."
+      },
+      {
+        "en": "Consumers are wary of products with hidden fees.",
+        "ru": "Потребители настороженно относятся к товарам со скрытыми сборами.",
+        "kk": "Тұтынушылар жасырын төлемдері бар өнімдерден сақтанады."
+      }
     ],
     "translations": {
       "ru": "настороженный",
@@ -303,8 +487,16 @@
     "pronunciation": "ZEL-us",
     "definition": "Having or showing great energy or enthusiasm",
     "examples": [
-      "She is a zealous advocate for environmental protection.",
-      "His zealous dedication to the project was impressive."
+      {
+        "en": "She is a zealous advocate for environmental protection.",
+        "ru": "Она ярый защитник охраны окружающей среды.",
+        "kk": "Ол қоршаған ортаны қорғаудың жанкүйер жақтаушысы."
+      },
+      {
+        "en": "His zealous dedication to the project was impressive.",
+        "ru": "Его рьяная преданность проекту вызывала восхищение.",
+        "kk": "Оның жобаға деген ынталы берілгендігі таң қалдырды."
+      }
     ],
     "translations": {
       "ru": "ревностный",
@@ -316,8 +508,16 @@
     "pronunciation": "ar-TIK-yoo-lut",
     "definition": "Able to express ideas clearly and effectively",
     "examples": [
-      "She is an articulate speaker who presents complex ideas simply.",
-      "His articulate argument convinced the committee."
+      {
+        "en": "She is an articulate speaker who presents complex ideas simply.",
+        "ru": "Она красноречивый оратор, который излагает сложные идеи простым языком.",
+        "kk": "Ол күрделі идеяларды қарапайым тілмен жеткізетін шешен сөйлеуші."
+      },
+      {
+        "en": "His articulate argument convinced the committee.",
+        "ru": "Его чётко сформулированный аргумент убедил комитет.",
+        "kk": "Оның нақты дәлелі комитетті сендірді."
+      }
     ],
     "translations": {
       "ru": "красноречивый",
@@ -329,8 +529,16 @@
     "pronunciation": "uh-STOOT",
     "definition": "Having the ability to understand situations quickly",
     "examples": [
-      "He made an astute observation about the market trends.",
-      "Her astute business decisions led to great success."
+      {
+        "en": "He made an astute observation about the market trends.",
+        "ru": "Он сделал проницательное наблюдение о тенденциях рынка.",
+        "kk": "Ол нарық үрдістері туралы өткір байқау жасады."
+      },
+      {
+        "en": "Her astute business decisions led to great success.",
+        "ru": "Её проницательные деловые решения привели к большому успеху.",
+        "kk": "Оның зерек бизнес шешімдері үлкен табысқа жеткізді."
+      }
     ],
     "translations": {
       "ru": "проницательный",
@@ -342,8 +550,16 @@
     "pronunciation": "KAN-did",
     "definition": "Truthful and straightforward; frank",
     "examples": [
-      "She gave a candid interview about her struggles.",
-      "I appreciate your candid feedback on my work."
+      {
+        "en": "She gave a candid interview about her struggles.",
+        "ru": "Она дала откровенное интервью о своих трудностях.",
+        "kk": "Ол өз қиындықтары туралы ашық сұхбат берді."
+      },
+      {
+        "en": "I appreciate your candid feedback on my work.",
+        "ru": "Я ценю вашу откровенную оценку моей работы.",
+        "kk": "Менің жұмысым туралы ашық пікіріңізді бағалаймын."
+      }
     ],
     "translations": {
       "ru": "откровенный",
@@ -355,8 +571,16 @@
     "pronunciation": "kum-PASH-un-ut",
     "definition": "Feeling or showing sympathy and concern for others",
     "examples": [
-      "The compassionate nurse comforted the patients.",
-      "He showed compassionate leadership during the crisis."
+      {
+        "en": "The compassionate nurse comforted the patients.",
+        "ru": "Сострадательная медсестра утешала пациентов.",
+        "kk": "Мейірімді медбике науқастарды жұбатты."
+      },
+      {
+        "en": "He showed compassionate leadership during the crisis.",
+        "ru": "Он проявил сострадательное лидерство во время кризиса.",
+        "kk": "Ол дағдарыс кезінде мейірімді көшбасшылық танытты."
+      }
     ],
     "translations": {
       "ru": "сострадательный",
@@ -368,8 +592,16 @@
     "pronunciation": "kun-SYSE",
     "definition": "Giving information clearly in few words",
     "examples": [
-      "The report was concise and easy to understand.",
-      "Please provide a concise summary of the meeting."
+      {
+        "en": "The report was concise and easy to understand.",
+        "ru": "Отчёт был кратким и понятным.",
+        "kk": "Есеп қысқа әрі түсінікті болды."
+      },
+      {
+        "en": "Please provide a concise summary of the meeting.",
+        "ru": "Пожалуйста, предоставьте краткое резюме совещания.",
+        "kk": "Жиналыстың қысқаша қорытындысын беріңізші."
+      }
     ],
     "translations": {
       "ru": "краткий",
@@ -381,8 +613,16 @@
     "pronunciation": "dih-SY-siv",
     "definition": "Able to make decisions quickly and effectively",
     "examples": [
-      "She is a decisive leader who acts with confidence.",
-      "His decisive action prevented a major accident."
+      {
+        "en": "She is a decisive leader who acts with confidence.",
+        "ru": "Она решительный лидер, который действует уверенно.",
+        "kk": "Ол сенімді әрекет ететін батыл көшбасшы."
+      },
+      {
+        "en": "His decisive action prevented a major accident.",
+        "ru": "Его решительные действия предотвратили крупную аварию.",
+        "kk": "Оның батыл әрекеті ірі апаттың алдын алды."
+      }
     ],
     "translations": {
       "ru": "решительный",
@@ -394,8 +634,16 @@
     "pronunciation": "DOOR-uh-bul",
     "definition": "Able to withstand wear, pressure, or damage",
     "examples": [
-      "These boots are made of durable leather.",
-      "The phone has a durable battery that lasts all day."
+      {
+        "en": "These boots are made of durable leather.",
+        "ru": "Эти ботинки сделаны из прочной кожи.",
+        "kk": "Бұл етіктер берік теріден жасалған."
+      },
+      {
+        "en": "The phone has a durable battery that lasts all day.",
+        "ru": "У телефона долговечный аккумулятор, которого хватает на весь день.",
+        "kk": "Телефонның күні бойы жететін берік батареясы бар."
+      }
     ],
     "translations": {
       "ru": "прочный",
@@ -407,8 +655,16 @@
     "pronunciation": "ik-SEN-trik",
     "definition": "Unconventional and slightly strange in behavior",
     "examples": [
-      "The eccentric artist lived in a colorful house.",
-      "His eccentric habits make him interesting to be around."
+      {
+        "en": "The eccentric artist lived in a colorful house.",
+        "ru": "Эксцентричный художник жил в ярком доме.",
+        "kk": "Ерекше суретші түрлі-түсті үйде тұрды."
+      },
+      {
+        "en": "His eccentric habits make him interesting to be around.",
+        "ru": "Его эксцентричные привычки делают общение с ним интересным.",
+        "kk": "Оның оғаш әдеттері оны қызықты адамға айналдырады."
+      }
     ],
     "translations": {
       "ru": "эксцентричный",
@@ -420,8 +676,16 @@
     "pronunciation": "ih-FISH-unt",
     "definition": "Achieving maximum productivity with minimum effort",
     "examples": [
-      "The new system is more efficient than the old one.",
-      "She has an efficient way of organizing her schedule."
+      {
+        "en": "The new system is more efficient than the old one.",
+        "ru": "Новая система эффективнее старой.",
+        "kk": "Жаңа жүйе ескісінен тиімдірек."
+      },
+      {
+        "en": "She has an efficient way of organizing her schedule.",
+        "ru": "У неё эффективный способ организации своего расписания.",
+        "kk": "Оның кестесін ұйымдастырудың тиімді тәсілі бар."
+      }
     ],
     "translations": {
       "ru": "эффективный",
@@ -433,8 +697,16 @@
     "pronunciation": "em-puh-THET-ik",
     "definition": "Able to understand and share others' feelings",
     "examples": [
-      "An empathetic teacher can connect with struggling students.",
-      "She gave an empathetic response to his concerns."
+      {
+        "en": "An empathetic teacher can connect with struggling students.",
+        "ru": "Чуткий учитель способен найти подход к отстающим ученикам.",
+        "kk": "Жанашыр мұғалім қиналып жүрген оқушылармен тіл табыса алады."
+      },
+      {
+        "en": "She gave an empathetic response to his concerns.",
+        "ru": "Она с пониманием отнеслась к его переживаниям.",
+        "kk": "Ол оның алаңдаушылығына жанашырлықпен жауап берді."
+      }
     ],
     "translations": {
       "ru": "эмпатичный",
@@ -446,8 +718,16 @@
     "pronunciation": "FEE-zuh-bul",
     "definition": "Possible and practical to do or achieve",
     "examples": [
-      "The plan seems feasible given our current resources.",
-      "Is it feasible to complete the project by next month?"
+      {
+        "en": "The plan seems feasible given our current resources.",
+        "ru": "План выглядит осуществимым с учётом наших текущих ресурсов.",
+        "kk": "Қазіргі ресурстарымызды ескерсек, жоспар орындалатын сияқты."
+      },
+      {
+        "en": "Is it feasible to complete the project by next month?",
+        "ru": "Реально ли завершить проект к следующему месяцу?",
+        "kk": "Жобаны келесі айға дейін аяқтау мүмкін бе?"
+      }
     ],
     "translations": {
       "ru": "осуществимый",
@@ -459,8 +739,16 @@
     "pronunciation": "GRAY-shus",
     "definition": "Courteous, kind, and pleasant",
     "examples": [
-      "She was a gracious host who made everyone feel welcome.",
-      "He accepted defeat with gracious dignity."
+      {
+        "en": "She was a gracious host who made everyone feel welcome.",
+        "ru": "Она была радушной хозяйкой, и каждый гость чувствовал себя желанным.",
+        "kk": "Ол барлығын қош көретін қонақжай үй иесі болды."
+      },
+      {
+        "en": "He accepted defeat with gracious dignity.",
+        "ru": "Он принял поражение с достоинством и благородством.",
+        "kk": "Ол жеңілісті абыроймен қабылдады."
+      }
     ],
     "translations": {
       "ru": "любезный",
@@ -472,8 +760,16 @@
     "pronunciation": "har-MOH-nee-us",
     "definition": "Free from disagreement or conflict; forming a pleasing whole",
     "examples": [
-      "They have a harmonious relationship built on mutual respect.",
-      "The colors in the painting create a harmonious effect."
+      {
+        "en": "They have a harmonious relationship built on mutual respect.",
+        "ru": "У них гармоничные отношения, построенные на взаимном уважении.",
+        "kk": "Олардың өзара құрметке негізделген үйлесімді қарым-қатынасы бар."
+      },
+      {
+        "en": "The colors in the painting create a harmonious effect.",
+        "ru": "Цвета на картине создают гармоничный эффект.",
+        "kk": "Картинадағы түстер үйлесімді әсер тудырады."
+      }
     ],
     "translations": {
       "ru": "гармоничный",
@@ -485,8 +781,16 @@
     "pronunciation": "im-PAR-shul",
     "definition": "Fair and unbiased; not favoring one side",
     "examples": [
-      "The judge remained impartial throughout the trial.",
-      "We need an impartial observer to assess the situation."
+      {
+        "en": "The judge remained impartial throughout the trial.",
+        "ru": "Судья оставался беспристрастным на протяжении всего процесса.",
+        "kk": "Судья сот процесі бойына бейтарап болып қалды."
+      },
+      {
+        "en": "We need an impartial observer to assess the situation.",
+        "ru": "Нам нужен беспристрастный наблюдатель для оценки ситуации.",
+        "kk": "Жағдайды бағалау үшін бізге бейтарап бақылаушы керек."
+      }
     ],
     "translations": {
       "ru": "беспристрастный",
@@ -498,8 +802,16 @@
     "pronunciation": "in-DUS-tree-us",
     "definition": "Hardworking and diligent",
     "examples": [
-      "The industrious student spent hours studying for exams.",
-      "Her industrious nature helped her succeed in business."
+      {
+        "en": "The industrious student spent hours studying for exams.",
+        "ru": "Трудолюбивый студент часами готовился к экзаменам.",
+        "kk": "Еңбекқор студент емтиханға дайындалуға сағаттар жұмсады."
+      },
+      {
+        "en": "Her industrious nature helped her succeed in business.",
+        "ru": "Её трудолюбивый характер помог ей добиться успеха в бизнесе.",
+        "kk": "Оның еңбекқор мінезі бизнесте табысқа жетуіне көмектесті."
+      }
     ],
     "translations": {
       "ru": "трудолюбивый",
@@ -511,8 +823,16 @@
     "pronunciation": "in-TOO-ih-tiv",
     "definition": "Using or based on instinctive understanding",
     "examples": [
-      "The app has an intuitive interface that's easy to use.",
-      "She has an intuitive understanding of people's emotions."
+      {
+        "en": "The app has an intuitive interface that's easy to use.",
+        "ru": "У приложения интуитивно понятный интерфейс, которым легко пользоваться.",
+        "kk": "Қолданбаның пайдалануға оңай, интуитивті интерфейсі бар."
+      },
+      {
+        "en": "She has an intuitive understanding of people's emotions.",
+        "ru": "Она интуитивно понимает эмоции людей.",
+        "kk": "Ол адамдардың сезімдерін сезіммен түсінеді."
+      }
     ],
     "translations": {
       "ru": "интуитивный",
@@ -524,8 +844,16 @@
     "pronunciation": "joo-DISH-us",
     "definition": "Having or showing good judgment; wise",
     "examples": [
-      "He made a judicious decision to wait before investing.",
-      "The company took a judicious approach to expansion."
+      {
+        "en": "He made a judicious decision to wait before investing.",
+        "ru": "Он принял разумное решение подождать, прежде чем инвестировать.",
+        "kk": "Ол инвестиция салмас бұрын күтуге ақылды шешім қабылдады."
+      },
+      {
+        "en": "The company took a judicious approach to expansion.",
+        "ru": "Компания подошла к расширению обдуманно.",
+        "kk": "Компания кеңейтуге саналы тәсілмен келді."
+      }
     ],
     "translations": {
       "ru": "разумный",
@@ -537,8 +865,16 @@
     "pronunciation": "MEE-gur",
     "definition": "Lacking in quantity or quality; insufficient",
     "examples": [
-      "They survived on meager rations during the journey.",
-      "His meager salary barely covered the rent."
+      {
+        "en": "They survived on meager rations during the journey.",
+        "ru": "Они выживали на скудном пайке во время путешествия.",
+        "kk": "Олар сапар кезінде тапшы азық-түлікпен күн көрді."
+      },
+      {
+        "en": "His meager salary barely covered the rent.",
+        "ru": "Его скудной зарплаты едва хватало на аренду.",
+        "kk": "Оның аз жалақысы үй жалдауға әрең жетті."
+      }
     ],
     "translations": {
       "ru": "скудный",
@@ -550,8 +886,16 @@
     "pronunciation": "muh-THOD-ih-kul",
     "definition": "Done according to a systematic procedure",
     "examples": [
-      "She has a methodical approach to problem-solving.",
-      "His methodical research produced reliable results."
+      {
+        "en": "She has a methodical approach to problem-solving.",
+        "ru": "У неё методичный подход к решению проблем.",
+        "kk": "Оның мәселелерді шешуге жүйелі тәсілі бар."
+      },
+      {
+        "en": "His methodical research produced reliable results.",
+        "ru": "Его методичное исследование дало надёжные результаты.",
+        "kk": "Оның жүйелі зерттеуі сенімді нәтижелер берді."
+      }
     ],
     "translations": {
       "ru": "методичный",
@@ -563,8 +907,16 @@
     "pronunciation": "MOD-ist",
     "definition": "Unassuming in appearance or behavior; humble",
     "examples": [
-      "Despite her achievements, she remained modest.",
-      "They live in a modest apartment downtown."
+      {
+        "en": "Despite her achievements, she remained modest.",
+        "ru": "Несмотря на свои достижения, она оставалась скромной.",
+        "kk": "Жетістіктеріне қарамастан, ол кішіпейіл болып қалды."
+      },
+      {
+        "en": "They live in a modest apartment downtown.",
+        "ru": "Они живут в скромной квартире в центре города.",
+        "kk": "Олар қала орталығындағы қарапайым пәтерде тұрады."
+      }
     ],
     "translations": {
       "ru": "скромный",
@@ -576,8 +928,16 @@
     "pronunciation": "non-shuh-LAHNT",
     "definition": "Casually calm and relaxed; not displaying anxiety",
     "examples": [
-      "He gave a nonchalant shrug when asked about the incident.",
-      "Her nonchalant attitude masked her nervousness."
+      {
+        "en": "He gave a nonchalant shrug when asked about the incident.",
+        "ru": "Он равнодушно пожал плечами, когда его спросили о происшествии.",
+        "kk": "Оқиға туралы сұрағанда, ол немқұрайлы иығын қысты."
+      },
+      {
+        "en": "Her nonchalant attitude masked her nervousness.",
+        "ru": "Её показное безразличие скрывало нервозность.",
+        "kk": "Оның немқұрайлы қалпы толқуын жасырды."
+      }
     ],
     "translations": {
       "ru": "беззаботный",
@@ -589,8 +949,16 @@
     "pronunciation": "ub-JEK-tiv",
     "definition": "Not influenced by personal feelings; impartial",
     "examples": [
-      "The journalist tried to maintain an objective perspective.",
-      "We need objective data to support this claim."
+      {
+        "en": "The journalist tried to maintain an objective perspective.",
+        "ru": "Журналист старался сохранять объективную точку зрения.",
+        "kk": "Журналист объективті көзқарасты сақтауға тырысты."
+      },
+      {
+        "en": "We need objective data to support this claim.",
+        "ru": "Нам нужны объективные данные для подтверждения этого утверждения.",
+        "kk": "Бұл мәлімдемені негіздеу үшін бізге объективті деректер керек."
+      }
     ],
     "translations": {
       "ru": "объективный",
@@ -602,8 +970,16 @@
     "pronunciation": "pur-SEP-tiv",
     "definition": "Having or showing insight and understanding",
     "examples": [
-      "She is perceptive and notices things others miss.",
-      "His perceptive comments revealed deep understanding."
+      {
+        "en": "She is perceptive and notices things others miss.",
+        "ru": "Она наблюдательна и замечает то, что другие упускают.",
+        "kk": "Ол байқағыш және басқалар байқамайтын нәрселерді көреді."
+      },
+      {
+        "en": "His perceptive comments revealed deep understanding.",
+        "ru": "Его проницательные замечания показали глубокое понимание.",
+        "kk": "Оның байқағыш пікірлері терең түсінігін көрсетті."
+      }
     ],
     "translations": {
       "ru": "проницательный",
@@ -615,8 +991,16 @@
     "pronunciation": "prag-MAT-ik",
     "definition": "Dealing with things practically and realistically",
     "examples": [
-      "She took a pragmatic approach to solving the problem.",
-      "His pragmatic advice was based on real experience."
+      {
+        "en": "She took a pragmatic approach to solving the problem.",
+        "ru": "Она подошла к решению проблемы прагматично.",
+        "kk": "Ол мәселені шешуге практикалық тұрғыдан келді."
+      },
+      {
+        "en": "His pragmatic advice was based on real experience.",
+        "ru": "Его практичный совет основывался на реальном опыте.",
+        "kk": "Оның практикалық кеңесі нақты тәжірибеге негізделген."
+      }
     ],
     "translations": {
       "ru": "прагматичный",
@@ -628,8 +1012,16 @@
     "pronunciation": "PROO-dunt",
     "definition": "Acting with care and thought for the future",
     "examples": [
-      "It would be prudent to save money for emergencies.",
-      "She made a prudent investment in stable stocks."
+      {
+        "en": "It would be prudent to save money for emergencies.",
+        "ru": "Было бы благоразумно откладывать деньги на непредвиденные случаи.",
+        "kk": "Төтенше жағдайларға ақша жинау ақылды шешім болар еді."
+      },
+      {
+        "en": "She made a prudent investment in stable stocks.",
+        "ru": "Она сделала разумную инвестицию в надёжные акции.",
+        "kk": "Ол тұрақты акцияларға ақылды инвестиция салды."
+      }
     ],
     "translations": {
       "ru": "благоразумный",
@@ -641,8 +1033,16 @@
     "pronunciation": "rih-LY-uh-bul",
     "definition": "Consistently good in quality or performance",
     "examples": [
-      "He is a reliable employee who never misses deadlines.",
-      "This car is reliable and rarely breaks down."
+      {
+        "en": "He is a reliable employee who never misses deadlines.",
+        "ru": "Он надёжный сотрудник, который никогда не срывает сроки.",
+        "kk": "Ол мерзімді ешқашан бұзбайтын сенімді қызметкер."
+      },
+      {
+        "en": "This car is reliable and rarely breaks down.",
+        "ru": "Эта машина надёжная и редко ломается.",
+        "kk": "Бұл көлік сенімді және сирек бұзылады."
+      }
     ],
     "translations": {
       "ru": "надежный",
@@ -654,8 +1054,16 @@
     "pronunciation": "rih-ZORS-ful",
     "definition": "Able to find quick and clever ways to overcome difficulties",
     "examples": [
-      "The resourceful engineer fixed the machine with spare parts.",
-      "She is resourceful and always finds solutions."
+      {
+        "en": "The resourceful engineer fixed the machine with spare parts.",
+        "ru": "Находчивый инженер починил машину из подручных деталей.",
+        "kk": "Тапқыр инженер машинаны қосалқы бөлшектермен жөндеді."
+      },
+      {
+        "en": "She is resourceful and always finds solutions.",
+        "ru": "Она находчива и всегда находит решения.",
+        "kk": "Ол тапқыр және әрқашан шешім табады."
+      }
     ],
     "translations": {
       "ru": "находчивый",
@@ -667,8 +1075,16 @@
     "pronunciation": "suh-REEN",
     "definition": "Calm, peaceful, and untroubled",
     "examples": [
-      "She had a serene expression on her face.",
-      "The serene countryside offered an escape from city stress."
+      {
+        "en": "She had a serene expression on her face.",
+        "ru": "На её лице было безмятежное выражение.",
+        "kk": "Оның бетінде тыныш, мамыражай көрініс болды."
+      },
+      {
+        "en": "The serene countryside offered an escape from city stress.",
+        "ru": "Тихая сельская местность позволяла отдохнуть от городской суеты.",
+        "kk": "Тыныш ауыл қала шуылынан қашуға мүмкіндік берді."
+      }
     ],
     "translations": {
       "ru": "безмятежный",
@@ -680,8 +1096,16 @@
     "pronunciation": "sin-SEER",
     "definition": "Free from pretense or deceit; genuine",
     "examples": [
-      "She gave a sincere apology for her mistake.",
-      "His sincere interest in helping others is admirable."
+      {
+        "en": "She gave a sincere apology for her mistake.",
+        "ru": "Она искренне извинилась за свою ошибку.",
+        "kk": "Ол қателігі үшін шын жүректен кешірім сұрады."
+      },
+      {
+        "en": "His sincere interest in helping others is admirable.",
+        "ru": "Его искреннее желание помогать другим вызывает восхищение.",
+        "kk": "Оның басқаларға көмектесуге деген шынайы ықыласы таңданарлық."
+      }
     ],
     "translations": {
       "ru": "искренний",
@@ -693,8 +1117,16 @@
     "pronunciation": "spon-TAY-nee-us",
     "definition": "Happening or done naturally without planning",
     "examples": [
-      "They took a spontaneous road trip over the weekend.",
-      "Her spontaneous laughter filled the room with joy."
+      {
+        "en": "They took a spontaneous road trip over the weekend.",
+        "ru": "На выходных они спонтанно отправились в поездку.",
+        "kk": "Олар демалыс күндері кенеттен жол сапарына шықты."
+      },
+      {
+        "en": "Her spontaneous laughter filled the room with joy.",
+        "ru": "Её непринуждённый смех наполнил комнату радостью.",
+        "kk": "Оның еріксіз күлкісі бөлмені қуанышқа толтырды."
+      }
     ],
     "translations": {
       "ru": "спонтанный",
@@ -706,8 +1138,16 @@
     "pronunciation": "TAKT-ful",
     "definition": "Having skill in dealing with difficult situations",
     "examples": [
-      "She gave tactful criticism that didn't offend anyone.",
-      "A tactful manager knows how to handle conflicts."
+      {
+        "en": "She gave tactful criticism that didn't offend anyone.",
+        "ru": "Она высказала тактичную критику, которая никого не обидела.",
+        "kk": "Ол ешкімді ренжітпейтін әдепті сын айтты."
+      },
+      {
+        "en": "A tactful manager knows how to handle conflicts.",
+        "ru": "Тактичный руководитель умеет разрешать конфликты.",
+        "kk": "Әдепті басшы жанжалдарды шеше білуі керек."
+      }
     ],
     "translations": {
       "ru": "тактичный",
@@ -719,8 +1159,16 @@
     "pronunciation": "tuh-NAY-shus",
     "definition": "Persistent and determined; not giving up easily",
     "examples": [
-      "Her tenacious spirit helped her overcome many obstacles.",
-      "The tenacious lawyer fought for justice."
+      {
+        "en": "Her tenacious spirit helped her overcome many obstacles.",
+        "ru": "Её упорный характер помог ей преодолеть множество препятствий.",
+        "kk": "Оның табанды рухы көптеген кедергілерді жеңуге көмектесті."
+      },
+      {
+        "en": "The tenacious lawyer fought for justice.",
+        "ru": "Настойчивый адвокат боролся за справедливость.",
+        "kk": "Табанды адвокат әділдік үшін күресті."
+      }
     ],
     "translations": {
       "ru": "упорный",
@@ -732,8 +1180,16 @@
     "pronunciation": "VUR-suh-tyl",
     "definition": "Able to adapt to many different functions or activities",
     "examples": [
-      "He is a versatile actor who plays many different roles.",
-      "This versatile tool can be used for multiple purposes."
+      {
+        "en": "He is a versatile actor who plays many different roles.",
+        "ru": "Он разносторонний актёр, играющий самые разные роли.",
+        "kk": "Ол әр түрлі рөлдерді ойнайтын жан-жақты актёр."
+      },
+      {
+        "en": "This versatile tool can be used for multiple purposes.",
+        "ru": "Этот универсальный инструмент можно использовать для разных целей.",
+        "kk": "Бұл әмбебап құралды бірнеше мақсатта қолдануға болады."
+      }
     ],
     "translations": {
       "ru": "универсальный",
@@ -745,8 +1201,16 @@
     "pronunciation": "VIG-ur-us",
     "definition": "Strong, healthy, and full of energy",
     "examples": [
-      "She maintains her health through vigorous exercise.",
-      "The team mounted a vigorous defense of their position."
+      {
+        "en": "She maintains her health through vigorous exercise.",
+        "ru": "Она поддерживает здоровье с помощью интенсивных тренировок.",
+        "kk": "Ол денсаулығын қарқынды жаттығулар арқылы сақтайды."
+      },
+      {
+        "en": "The team mounted a vigorous defense of their position.",
+        "ru": "Команда решительно отстаивала свою позицию.",
+        "kk": "Команда өз ұстанымын қажырлы қорғады."
+      }
     ],
     "translations": {
       "ru": "энергичный",
@@ -758,8 +1222,16 @@
     "pronunciation": "WIT-ee",
     "definition": "Showing quick and inventive verbal humor",
     "examples": [
-      "His witty remarks always make people laugh.",
-      "The comedian is known for her witty observations."
+      {
+        "en": "His witty remarks always make people laugh.",
+        "ru": "Его остроумные замечания всегда вызывают смех.",
+        "kk": "Оның тапқыр сөздері адамдарды әрқашан күлдіреді."
+      },
+      {
+        "en": "The comedian is known for her witty observations.",
+        "ru": "Комик известна своими остроумными наблюдениями.",
+        "kk": "Комик өзінің тапқыр байқамдарымен танымал."
+      }
     ],
     "translations": {
       "ru": "остроумный",
@@ -771,8 +1243,16 @@
     "pronunciation": "AD-uh-munt",
     "definition": "Refusing to change one's mind; firm",
     "examples": [
-      "She was adamant that the meeting should be postponed.",
-      "He remained adamant in his refusal to compromise."
+      {
+        "en": "She was adamant that the meeting should be postponed.",
+        "ru": "Она настаивала на том, что встречу нужно перенести.",
+        "kk": "Ол кездесуді кейінге қалдыру керек деп табанды түрде талап етті."
+      },
+      {
+        "en": "He remained adamant in his refusal to compromise.",
+        "ru": "Он оставался непреклонен в своём отказе идти на компромисс.",
+        "kk": "Ол ымыраға келуден бас тартуында берік болып қалды."
+      }
     ],
     "translations": {
       "ru": "непреклонный",
@@ -784,8 +1264,16 @@
     "pronunciation": "AF-uh-bul",
     "definition": "Friendly, good-natured, and easy to talk to",
     "examples": [
-      "The affable host made everyone feel at ease.",
-      "His affable personality makes him popular with colleagues."
+      {
+        "en": "The affable host made everyone feel at ease.",
+        "ru": "Приветливый хозяин помог всем почувствовать себя непринуждённо.",
+        "kk": "Қонақжай үй иесі барлығын жайлы сезінуге мүмкіндік берді."
+      },
+      {
+        "en": "His affable personality makes him popular with colleagues.",
+        "ru": "Его дружелюбный характер делает его любимцем коллег.",
+        "kk": "Оның мейірімді мінезі оны әріптестер арасында сүйікті етеді."
+      }
     ],
     "translations": {
       "ru": "приветливый",
@@ -797,8 +1285,16 @@
     "pronunciation": "AJ-ul",
     "definition": "Able to move quickly and easily; mentally quick",
     "examples": [
-      "The agile gymnast performed impressive flips.",
-      "She has an agile mind that grasps concepts quickly."
+      {
+        "en": "The agile gymnast performed impressive flips.",
+        "ru": "Ловкий гимнаст выполнил впечатляющие сальто.",
+        "kk": "Епті гимнаст таңғажайып аударылыстар жасады."
+      },
+      {
+        "en": "She has an agile mind that grasps concepts quickly.",
+        "ru": "У неё гибкий ум, который быстро схватывает суть.",
+        "kk": "Оның ұғымдарды тез қабылдайтын ұтқыр ойлауы бар."
+      }
     ],
     "translations": {
       "ru": "проворный",
@@ -810,8 +1306,16 @@
     "pronunciation": "AR-dunt",
     "definition": "Enthusiastic or passionate about something",
     "examples": [
-      "She is an ardent supporter of environmental causes.",
-      "His ardent desire to succeed drove him forward."
+      {
+        "en": "She is an ardent supporter of environmental causes.",
+        "ru": "Она — страстный сторонник защиты окружающей среды.",
+        "kk": "Ол қоршаған ортаны қорғаудың құлшынысты жақтаушысы."
+      },
+      {
+        "en": "His ardent desire to succeed drove him forward.",
+        "ru": "Его горячее стремление к успеху двигало его вперёд.",
+        "kk": "Оның табысқа жетуге деген құштарлығы оны алға жетеледі."
+      }
     ],
     "translations": {
       "ru": "пылкий",
@@ -823,8 +1327,16 @@
     "pronunciation": "aw-SPISH-us",
     "definition": "Indicating a good chance of success; favorable",
     "examples": [
-      "The project had an auspicious beginning.",
-      "They considered it an auspicious day for the wedding."
+      {
+        "en": "The project had an auspicious beginning.",
+        "ru": "Проект начался весьма удачно.",
+        "kk": "Жобаның басталуы сәтті болды."
+      },
+      {
+        "en": "They considered it an auspicious day for the wedding.",
+        "ru": "Они посчитали этот день благоприятным для свадьбы.",
+        "kk": "Олар бұл күнді тойға құтты деп санады."
+      }
     ],
     "translations": {
       "ru": "благоприятный",
@@ -836,8 +1348,16 @@
     "pronunciation": "aw-STEER",
     "definition": "Severe or strict in manner; without comfort",
     "examples": [
-      "The monastery had austere living conditions.",
-      "He maintained an austere lifestyle with few luxuries."
+      {
+        "en": "The monastery had austere living conditions.",
+        "ru": "В монастыре были суровые условия жизни.",
+        "kk": "Монастырдағы тұрмыс жағдайлары қатал болды."
+      },
+      {
+        "en": "He maintained an austere lifestyle with few luxuries.",
+        "ru": "Он вёл аскетичный образ жизни, почти без излишеств.",
+        "kk": "Ол сән-салтанатсыз қарапайым өмір салтын ұстанды."
+      }
     ],
     "translations": {
       "ru": "строгий",
@@ -849,8 +1369,16 @@
     "pronunciation": "BRISK",
     "definition": "Active, fast, and energetic",
     "examples": [
-      "They took a brisk walk in the morning air.",
-      "Business has been brisk since the store reopened."
+      {
+        "en": "They took a brisk walk in the morning air.",
+        "ru": "Они совершили бодрую прогулку на утреннем воздухе.",
+        "kk": "Олар таңғы ауада серпінді серуендеді."
+      },
+      {
+        "en": "Business has been brisk since the store reopened.",
+        "ru": "Торговля идёт бойко с тех пор, как магазин вновь открылся.",
+        "kk": "Дүкен қайта ашылғаннан бері сауда жандана түсті."
+      }
     ],
     "translations": {
       "ru": "бодрый",
@@ -862,8 +1390,16 @@
     "pronunciation": "koh-HEER-unt",
     "definition": "Logical, consistent, and easy to understand",
     "examples": [
-      "She presented a coherent argument for the proposal.",
-      "His thoughts were no longer coherent after the accident."
+      {
+        "en": "She presented a coherent argument for the proposal.",
+        "ru": "Она представила логичное обоснование предложения.",
+        "kk": "Ол ұсыныс бойынша жүйелі дәлел келтірді."
+      },
+      {
+        "en": "His thoughts were no longer coherent after the accident.",
+        "ru": "После аварии его мысли утратили связность.",
+        "kk": "Жазатайым оқиғадан кейін оның ойлары бірізді болмай қалды."
+      }
     ],
     "translations": {
       "ru": "связный",
@@ -875,8 +1411,16 @@
     "pronunciation": "kon-shee-EN-shus",
     "definition": "Wishing to do what is right; careful and thorough",
     "examples": [
-      "He is a conscientious worker who takes pride in his job.",
-      "She made a conscientious effort to improve her skills."
+      {
+        "en": "He is a conscientious worker who takes pride in his job.",
+        "ru": "Он добросовестный работник, который гордится своей работой.",
+        "kk": "Ол өз жұмысын мақтан тұтатын адал қызметкер."
+      },
+      {
+        "en": "She made a conscientious effort to improve her skills.",
+        "ru": "Она приложила сознательные усилия, чтобы улучшить свои навыки.",
+        "kk": "Ол дағдыларын жетілдіру үшін саналы түрде күш салды."
+      }
     ],
     "translations": {
       "ru": "добросовестный",
@@ -888,8 +1432,16 @@
     "pronunciation": "KOR-jul",
     "definition": "Warm and friendly in manner",
     "examples": [
-      "They received a cordial welcome from their hosts.",
-      "The meeting ended on cordial terms."
+      {
+        "en": "They received a cordial welcome from their hosts.",
+        "ru": "Хозяева оказали им радушный приём.",
+        "kk": "Үй иелері оларды жылы қарсы алды."
+      },
+      {
+        "en": "The meeting ended on cordial terms.",
+        "ru": "Встреча завершилась на дружественной ноте.",
+        "kk": "Кездесу достық ахуалда аяқталды."
+      }
     ],
     "translations": {
       "ru": "сердечный",
@@ -901,8 +1453,16 @@
     "pronunciation": "KRED-uh-bul",
     "definition": "Able to be believed; convincing",
     "examples": [
-      "She is a credible witness with no reason to lie.",
-      "The report provides credible evidence for the claims."
+      {
+        "en": "She is a credible witness with no reason to lie.",
+        "ru": "Она — заслуживающий доверия свидетель, которому незачем лгать.",
+        "kk": "Ол өтірік айтуға себебі жоқ, сенімді куәгер."
+      },
+      {
+        "en": "The report provides credible evidence for the claims.",
+        "ru": "В отчёте приводятся убедительные доказательства выдвинутых утверждений.",
+        "kk": "Есепте айтылған мәлімдемелерге нанымды дәлелдер келтірілген."
+      }
     ],
     "translations": {
       "ru": "достоверный",
@@ -914,8 +1474,16 @@
     "pronunciation": "DEL-ih-kut",
     "definition": "Easily broken or damaged; requiring careful handling",
     "examples": [
-      "Handle the delicate glassware with care.",
-      "This is a delicate situation that requires tact."
+      {
+        "en": "Handle the delicate glassware with care.",
+        "ru": "Обращайтесь с хрупкой стеклянной посудой осторожно.",
+        "kk": "Нәзік әйнек ыдыстарды абайлап ұстаңыз."
+      },
+      {
+        "en": "This is a delicate situation that requires tact.",
+        "ru": "Это деликатная ситуация, требующая такта.",
+        "kk": "Бұл әдептілікті қажет ететін нәзік жағдай."
+      }
     ],
     "translations": {
       "ru": "деликатный",
@@ -927,8 +1495,16 @@
     "pronunciation": "dih-SKREET",
     "definition": "Careful not to cause embarrassment or attract attention",
     "examples": [
-      "She was discreet about her personal life.",
-      "The detective conducted a discreet investigation."
+      {
+        "en": "She was discreet about her personal life.",
+        "ru": "Она не распространялась о своей личной жизни.",
+        "kk": "Ол жеке өмірі туралы ауызбіршілік сақтады."
+      },
+      {
+        "en": "The detective conducted a discreet investigation.",
+        "ru": "Детектив провёл негласное расследование.",
+        "kk": "Детектив жасырын тергеу жүргізді."
+      }
     ],
     "translations": {
       "ru": "тактичный",
@@ -940,8 +1516,16 @@
     "pronunciation": "dy-NAM-ik",
     "definition": "Full of energy and new ideas; constantly changing",
     "examples": [
-      "She is a dynamic leader who inspires her team.",
-      "The city has a dynamic economy with many startups."
+      {
+        "en": "She is a dynamic leader who inspires her team.",
+        "ru": "Она — энергичный руководитель, вдохновляющий свою команду.",
+        "kk": "Ол командасын шабыттандыратын жігерлі көшбасшы."
+      },
+      {
+        "en": "The city has a dynamic economy with many startups.",
+        "ru": "В городе динамично развивающаяся экономика с множеством стартапов.",
+        "kk": "Қалада көптеген стартаптары бар серпінді экономика қалыптасқан."
+      }
     ],
     "translations": {
       "ru": "динамичный",
@@ -953,8 +1537,16 @@
     "pronunciation": "ik-SPLIS-it",
     "definition": "Stated clearly and in detail, leaving no room for confusion",
     "examples": [
-      "The instructions were explicit and easy to follow.",
-      "He gave explicit permission to use his work."
+      {
+        "en": "The instructions were explicit and easy to follow.",
+        "ru": "Инструкции были чёткими и понятными.",
+        "kk": "Нұсқаулар анық және түсінікті болды."
+      },
+      {
+        "en": "He gave explicit permission to use his work.",
+        "ru": "Он дал прямое разрешение на использование его работы.",
+        "kk": "Ол өз жұмысын пайдалануға нақты рұқсат берді."
+      }
     ],
     "translations": {
       "ru": "явный",
@@ -966,8 +1558,16 @@
     "pronunciation": "FUR-vunt",
     "definition": "Having or displaying passionate intensity",
     "examples": [
-      "She made a fervent plea for peace.",
-      "His fervent belief in justice motivated his actions."
+      {
+        "en": "She made a fervent plea for peace.",
+        "ru": "Она обратилась с горячим призывом к миру.",
+        "kk": "Ол бейбітшілікке жалынды үндеу жасады."
+      },
+      {
+        "en": "His fervent belief in justice motivated his actions.",
+        "ru": "Его горячая вера в справедливость определяла его поступки.",
+        "kk": "Оның әділдікке деген берік сенімі іс-әрекеттерін бағыттады."
+      }
     ],
     "translations": {
       "ru": "пламенный",
@@ -979,8 +1579,16 @@
     "pronunciation": "FOR-mid-uh-bul",
     "definition": "Inspiring fear or respect through being large or powerful",
     "examples": [
-      "She is a formidable opponent in debates.",
-      "The team faces a formidable challenge ahead."
+      {
+        "en": "She is a formidable opponent in debates.",
+        "ru": "Она грозный противник в дебатах.",
+        "kk": "Ол пікірталастарда қатал қарсылас."
+      },
+      {
+        "en": "The team faces a formidable challenge ahead.",
+        "ru": "Команду ждёт серьёзное испытание впереди.",
+        "kk": "Команданың алдында үлкен сынақ тұр."
+      }
     ],
     "translations": {
       "ru": "грозный",
@@ -992,8 +1600,16 @@
     "pronunciation": "grih-GAIR-ee-us",
     "definition": "Fond of company; sociable",
     "examples": [
-      "He has a gregarious personality and loves parties.",
-      "Gregarious animals prefer to live in groups."
+      {
+        "en": "He has a gregarious personality and loves parties.",
+        "ru": "Он общительный по натуре и обожает вечеринки.",
+        "kk": "Ол мінезі бойынша тым ашық және мерекелерді жақсы көреді."
+      },
+      {
+        "en": "Gregarious animals prefer to live in groups.",
+        "ru": "Стадные животные предпочитают жить группами.",
+        "kk": "Табынды жануарлар топпен өмір сүруді қалайды."
+      }
     ],
     "translations": {
       "ru": "общительный",
@@ -1005,8 +1621,16 @@
     "pronunciation": "im-PEK-uh-bul",
     "definition": "In accordance with the highest standards; faultless",
     "examples": [
-      "She has impeccable taste in fashion.",
-      "His impeccable manners impressed everyone."
+      {
+        "en": "She has impeccable taste in fashion.",
+        "ru": "У неё безупречный вкус в моде.",
+        "kk": "Оның сәндегі талғамы мінсіз."
+      },
+      {
+        "en": "His impeccable manners impressed everyone.",
+        "ru": "Его безупречные манеры произвели впечатление на всех.",
+        "kk": "Оның мінсіз мінез-құлқы бәріне әсер етті."
+      }
     ],
     "translations": {
       "ru": "безупречный",
@@ -1018,8 +1642,16 @@
     "pronunciation": "ih-NAYT",
     "definition": "Inborn; natural rather than learned",
     "examples": [
-      "She has an innate talent for music.",
-      "His innate curiosity drives his research."
+      {
+        "en": "She has an innate talent for music.",
+        "ru": "У неё врождённый талант к музыке.",
+        "kk": "Оның музыкаға туа біткен таланты бар."
+      },
+      {
+        "en": "His innate curiosity drives his research.",
+        "ru": "Его врождённая любознательность движет его исследованиями.",
+        "kk": "Оның туа біткен білуге құмарлығы зерттеулеріне серпін береді."
+      }
     ],
     "translations": {
       "ru": "врожденный",
@@ -1031,8 +1663,16 @@
     "pronunciation": "LAV-ish",
     "definition": "Very rich, elaborate, or luxurious",
     "examples": [
-      "They hosted a lavish wedding ceremony.",
-      "The hotel room had lavish decorations."
+      {
+        "en": "They hosted a lavish wedding ceremony.",
+        "ru": "Они устроили роскошную свадебную церемонию.",
+        "kk": "Олар салтанатты той тойлады."
+      },
+      {
+        "en": "The hotel room had lavish decorations.",
+        "ru": "Номер в отеле был роскошно украшен.",
+        "kk": "Қонақ үй бөлмесі сәнді безендірілген еді."
+      }
     ],
     "translations": {
       "ru": "роскошный",
@@ -1044,8 +1684,16 @@
     "pronunciation": "LEE-nee-unt",
     "definition": "Permissive, merciful, or tolerant",
     "examples": [
-      "The teacher was lenient with late assignments.",
-      "The judge gave a lenient sentence."
+      {
+        "en": "The teacher was lenient with late assignments.",
+        "ru": "Учитель снисходительно относился к сданным с опозданием работам.",
+        "kk": "Мұғалім кеш тапсырылған жұмыстарға жұмсақ қарады."
+      },
+      {
+        "en": "The judge gave a lenient sentence.",
+        "ru": "Судья вынес мягкий приговор.",
+        "kk": "Судья жеңіл үкім шығарды."
+      }
     ],
     "translations": {
       "ru": "снисходительный",
@@ -1057,8 +1705,16 @@
     "pronunciation": "uh-DEPT",
     "definition": "Very skilled or proficient at something",
     "examples": [
-      "She is adept at handling difficult conversations.",
-      "The adept programmer solved the bug in minutes."
+      {
+        "en": "She is adept at handling difficult conversations.",
+        "ru": "Она умело ведёт сложные разговоры.",
+        "kk": "Ол қиын әңгімелерді шебер жүргізеді."
+      },
+      {
+        "en": "The adept programmer solved the bug in minutes.",
+        "ru": "Опытный программист исправил ошибку за считанные минуты.",
+        "kk": "Шебер бағдарламашы қатені бірнеше минутта түзетті."
+      }
     ],
     "translations": {
       "ru": "искусный",
@@ -1070,8 +1726,16 @@
     "pronunciation": "bih-NYNE",
     "definition": "Gentle and kind; not harmful",
     "examples": [
-      "The doctor confirmed the tumor was benign.",
-      "He has a benign nature that puts people at ease."
+      {
+        "en": "The doctor confirmed the tumor was benign.",
+        "ru": "Врач подтвердил, что опухоль доброкачественная.",
+        "kk": "Дәрігер ісіктің қатерсіз екенін растады."
+      },
+      {
+        "en": "He has a benign nature that puts people at ease.",
+        "ru": "У него мягкий характер, который располагает к себе окружающих.",
+        "kk": "Оның жұмсақ мінезі адамдарды тыныштандырады."
+      }
     ],
     "translations": {
       "ru": "доброкачественный",
@@ -1083,8 +1747,16 @@
     "pronunciation": "KOG-nih-zunt",
     "definition": "Having knowledge or awareness of something",
     "examples": [
-      "She was cognizant of the risks before making her decision.",
-      "Leaders must be cognizant of their team's well-being."
+      {
+        "en": "She was cognizant of the risks before making her decision.",
+        "ru": "Она осознавала риски, прежде чем принять решение.",
+        "kk": "Ол шешім қабылдамас бұрын тәуекелдерді түсінді."
+      },
+      {
+        "en": "Leaders must be cognizant of their team's well-being.",
+        "ru": "Руководители должны учитывать благополучие своей команды.",
+        "kk": "Көшбасшылар өз командасының жағдайын ескеруі тиіс."
+      }
     ],
     "translations": {
       "ru": "осведомленный",
@@ -1096,8 +1768,16 @@
     "pronunciation": "deb-uh-NAIR",
     "definition": "Confident, stylish, and charming in manner",
     "examples": [
-      "The debonair gentleman impressed everyone at the gala.",
-      "He had a debonair smile that won people over instantly."
+      {
+        "en": "The debonair gentleman impressed everyone at the gala.",
+        "ru": "Элегантный джентльмен произвёл впечатление на всех гостей гала-вечера.",
+        "kk": "Сәнді мырза мерекелік кешке келгендердің бәрін таң қалдырды."
+      },
+      {
+        "en": "He had a debonair smile that won people over instantly.",
+        "ru": "Его обаятельная улыбка мгновенно покоряла людей.",
+        "kk": "Оның сүйкімді күлкісі адамдарды бірден баурап алатын."
+      }
     ],
     "translations": {
       "ru": "обходительный",
@@ -1109,8 +1789,16 @@
     "pronunciation": "en-ig-MAT-ik",
     "definition": "Mysterious and difficult to understand",
     "examples": [
-      "The enigmatic painting left viewers puzzled for centuries.",
-      "She gave an enigmatic smile and walked away."
+      {
+        "en": "The enigmatic painting left viewers puzzled for centuries.",
+        "ru": "Загадочная картина ставила зрителей в тупик на протяжении веков.",
+        "kk": "Жұмбақ сурет ғасырлар бойы көрермендерді таң қалдырды."
+      },
+      {
+        "en": "She gave an enigmatic smile and walked away.",
+        "ru": "Она загадочно улыбнулась и ушла.",
+        "kk": "Ол жұмбақ күлімсіреп, бұрылып кетті."
+      }
     ],
     "translations": {
       "ru": "загадочный",
@@ -1122,8 +1810,16 @@
     "pronunciation": "fa-STID-ee-us",
     "definition": "Very attentive to accuracy and detail",
     "examples": [
-      "She is fastidious about keeping her workspace clean.",
-      "The fastidious editor caught every spelling error."
+      {
+        "en": "She is fastidious about keeping her workspace clean.",
+        "ru": "Она очень щепетильна в отношении чистоты на рабочем месте.",
+        "kk": "Ол жұмыс орнының тазалығына өте мұқият қарайды."
+      },
+      {
+        "en": "The fastidious editor caught every spelling error.",
+        "ru": "Дотошный редактор выловил каждую орфографическую ошибку.",
+        "kk": "Ұқыпты редактор әрбір емле қатесін тауып шықты."
+      }
     ],
     "translations": {
       "ru": "привередливый",
@@ -1135,8 +1831,16 @@
     "pronunciation": "GAL-unt",
     "definition": "Brave, heroic, and chivalrous",
     "examples": [
-      "The gallant firefighter rescued the family from the blaze.",
-      "He made a gallant effort to finish the race despite his injury."
+      {
+        "en": "The gallant firefighter rescued the family from the blaze.",
+        "ru": "Отважный пожарный спас семью из огня.",
+        "kk": "Батыл өрт сөндіруші отбасын өрттен құтқарды."
+      },
+      {
+        "en": "He made a gallant effort to finish the race despite his injury.",
+        "ru": "Несмотря на травму, он мужественно постарался дойти до финиша.",
+        "kk": "Жарақатына қарамастан, ол жарысты аяқтау үшін ерлікпен тырысты."
+      }
     ],
     "translations": {
       "ru": "доблестный",
@@ -1148,8 +1852,16 @@
     "pronunciation": "in-TREP-id",
     "definition": "Fearless and adventurous",
     "examples": [
-      "The intrepid explorer ventured deep into the jungle.",
-      "Her intrepid attitude inspired the rest of the team."
+      {
+        "en": "The intrepid explorer ventured deep into the jungle.",
+        "ru": "Бесстрашный исследователь углубился в самую чащу джунглей.",
+        "kk": "Батыл зерттеуші жыңғылдың тереңіне еніп кетті."
+      },
+      {
+        "en": "Her intrepid attitude inspired the rest of the team.",
+        "ru": "Её бесстрашие вдохновило остальных членов команды.",
+        "kk": "Оның қайсарлығы команданың қалған мүшелерін шабыттандырды."
+      }
     ],
     "translations": {
       "ru": "бесстрашный",
@@ -1161,8 +1873,16 @@
     "pronunciation": "JOO-bih-lunt",
     "definition": "Feeling or expressing great happiness and triumph",
     "examples": [
-      "The jubilant crowd celebrated the team's victory.",
-      "She was jubilant after receiving her acceptance letter."
+      {
+        "en": "The jubilant crowd celebrated the team's victory.",
+        "ru": "Ликующая толпа праздновала победу команды.",
+        "kk": "Қуанышқа бөленген жұрт команданың жеңісін тойлады."
+      },
+      {
+        "en": "She was jubilant after receiving her acceptance letter.",
+        "ru": "Она была вне себя от радости, получив письмо о зачислении.",
+        "kk": "Ол қабылдау хатын алғаннан кейін қуанышқа кенелді."
+      }
     ],
     "translations": {
       "ru": "ликующий",
@@ -1174,8 +1894,16 @@
     "pronunciation": "mag-NAN-ih-mus",
     "definition": "Very generous or forgiving, especially toward a rival",
     "examples": [
-      "The magnanimous winner congratulated his opponent warmly.",
-      "She made a magnanimous donation to the local shelter."
+      {
+        "en": "The magnanimous winner congratulated his opponent warmly.",
+        "ru": "Великодушный победитель тепло поздравил своего соперника.",
+        "kk": "Кеңпейіл жеңімпаз қарсыласын жылы құттықтады."
+      },
+      {
+        "en": "She made a magnanimous donation to the local shelter.",
+        "ru": "Она сделала щедрое пожертвование местному приюту.",
+        "kk": "Ол жергілікті баспанаға жомарт қайырмалдық жасады."
+      }
     ],
     "translations": {
       "ru": "великодушный",
@@ -1187,8 +1915,16 @@
     "pronunciation": "NIM-bul",
     "definition": "Quick and light in movement or thought",
     "examples": [
-      "The nimble dancer moved gracefully across the stage.",
-      "His nimble mind allowed him to solve puzzles quickly."
+      {
+        "en": "The nimble dancer moved gracefully across the stage.",
+        "ru": "Ловкая танцовщица грациозно двигалась по сцене.",
+        "kk": "Епті бишілер сахнада сұлу қимылдады."
+      },
+      {
+        "en": "His nimble mind allowed him to solve puzzles quickly.",
+        "ru": "Его гибкий ум позволял ему быстро решать головоломки.",
+        "kk": "Оның ұтқыр ойлауы жұмбақтарды тез шешуге мүмкіндік берді."
+      }
     ],
     "translations": {
       "ru": "проворный",
@@ -1200,8 +1936,16 @@
     "pronunciation": "OP-yoo-lunt",
     "definition": "Ostentatiously rich and luxurious",
     "examples": [
-      "The hotel lobby had an opulent design with marble floors.",
-      "They lived in an opulent mansion overlooking the sea."
+      {
+        "en": "The hotel lobby had an opulent design with marble floors.",
+        "ru": "Вестибюль отеля был роскошно оформлен, с мраморными полами.",
+        "kk": "Қонақ үйдің фойесі мәрмәр еденді сәулетті дизайнмен безендірілген."
+      },
+      {
+        "en": "They lived in an opulent mansion overlooking the sea.",
+        "ru": "Они жили в роскошном особняке с видом на море.",
+        "kk": "Олар теңізге қарайтын сәулетті сарайда тұрды."
+      }
     ],
     "translations": {
       "ru": "роскошный",
@@ -1213,8 +1957,16 @@
     "pronunciation": "PEN-siv",
     "definition": "Engaged in deep or serious thought",
     "examples": [
-      "She sat in pensive silence, staring out the window.",
-      "He had a pensive look on his face during the meeting."
+      {
+        "en": "She sat in pensive silence, staring out the window.",
+        "ru": "Она сидела в задумчивой тишине, глядя в окно.",
+        "kk": "Ол терезеден қарап, ойға батып отырды."
+      },
+      {
+        "en": "He had a pensive look on his face during the meeting.",
+        "ru": "Во время встречи у него было задумчивое выражение лица.",
+        "kk": "Жиналыс кезінде оның бет-жүзі ойлы күйде болды."
+      }
     ],
     "translations": {
       "ru": "задумчивый",
@@ -1226,8 +1978,16 @@
     "pronunciation": "kwin-tuh-SEN-shul",
     "definition": "Representing the most perfect example of something",
     "examples": [
-      "She is the quintessential professional in her field.",
-      "The café is the quintessential neighborhood gathering spot."
+      {
+        "en": "She is the quintessential professional in her field.",
+        "ru": "Она — образцовый профессионал в своей области.",
+        "kk": "Ол өз саласындағы нағыз кәсіби маман."
+      },
+      {
+        "en": "The café is the quintessential neighborhood gathering spot.",
+        "ru": "Это кафе — типичное место встреч для местных жителей.",
+        "kk": "Бұл кафе — аудан тұрғындарының нағыз жиналыс орны."
+      }
     ],
     "translations": {
       "ru": "типичный",
@@ -1239,8 +1999,16 @@
     "pronunciation": "rih-VEERD",
     "definition": "Deeply respected and admired",
     "examples": [
-      "The revered professor was known for his groundbreaking research.",
-      "She is revered by her colleagues for her dedication."
+      {
+        "en": "The revered professor was known for his groundbreaking research.",
+        "ru": "Уважаемый профессор был известен своими новаторскими исследованиями.",
+        "kk": "Құрметті профессор өзінің жаңашыл зерттеулерімен танымал болды."
+      },
+      {
+        "en": "She is revered by her colleagues for her dedication.",
+        "ru": "Коллеги глубоко уважают её за преданность делу.",
+        "kk": "Оны әріптестері берілгендігі үшін құрметтейді."
+      }
     ],
     "translations": {
       "ru": "почитаемый",
@@ -1252,8 +2020,16 @@
     "pronunciation": "STOH-ik",
     "definition": "Enduring pain or hardship without showing emotion",
     "examples": [
-      "He remained stoic throughout the difficult trial.",
-      "Her stoic demeanor hid the turmoil she felt inside."
+      {
+        "en": "He remained stoic throughout the difficult trial.",
+        "ru": "Он оставался невозмутимым на протяжении всего тяжёлого судебного процесса.",
+        "kk": "Ол қиын сот процесі бойы сабырлы болып қалды."
+      },
+      {
+        "en": "Her stoic demeanor hid the turmoil she felt inside.",
+        "ru": "Её невозмутимый вид скрывал внутреннюю бурю чувств.",
+        "kk": "Оның сабырлы бейнесі ішіндегі толқуды жасырды."
+      }
     ],
     "translations": {
       "ru": "стоический",
@@ -1265,8 +2041,16 @@
     "pronunciation": "TEN-yoo-us",
     "definition": "Very weak or slight; lacking substance",
     "examples": [
-      "The connection between the two events was tenuous at best.",
-      "He had a tenuous grasp on the subject matter."
+      {
+        "en": "The connection between the two events was tenuous at best.",
+        "ru": "Связь между двумя событиями была в лучшем случае слабой.",
+        "kk": "Екі оқиға арасындағы байланыс өте нашар еді."
+      },
+      {
+        "en": "He had a tenuous grasp on the subject matter.",
+        "ru": "Он имел лишь поверхностное представление о предмете.",
+        "kk": "Оның бұл тақырыпты түсінуі өте үстірт еді."
+      }
     ],
     "translations": {
       "ru": "слабый",
@@ -1278,8 +2062,16 @@
     "pronunciation": "vor-AY-shus",
     "definition": "Having a very eager approach to an activity",
     "examples": [
-      "She is a voracious reader who finishes a book every week.",
-      "His voracious appetite for knowledge led him to study abroad."
+      {
+        "en": "She is a voracious reader who finishes a book every week.",
+        "ru": "Она заядлая читательница, которая прочитывает по книге каждую неделю.",
+        "kk": "Ол апта сайын бір кітап бітіретін құмар оқырман."
+      },
+      {
+        "en": "His voracious appetite for knowledge led him to study abroad.",
+        "ru": "Его ненасытная жажда знаний привела его к учёбе за рубежом.",
+        "kk": "Оның білімге деген құштарлығы оны шетелде оқуға жетеледі."
+      }
     ],
     "translations": {
       "ru": "ненасытный",
@@ -1291,8 +2083,16 @@
     "pronunciation": "WIM-zih-kul",
     "definition": "Playfully quaint or fanciful, especially in an appealing way",
     "examples": [
-      "The children's book had whimsical illustrations.",
-      "She decorated her room with whimsical fairy lights and paper lanterns."
+      {
+        "en": "The children's book had whimsical illustrations.",
+        "ru": "В детской книге были причудливые иллюстрации.",
+        "kk": "Балалар кітабында қиялға толы суреттер болды."
+      },
+      {
+        "en": "She decorated her room with whimsical fairy lights and paper lanterns.",
+        "ru": "Она украсила свою комнату причудливыми гирляндами и бумажными фонариками.",
+        "kk": "Ол бөлмесін ерекше гирляндалармен және қағаз шамдармен безендірді."
+      }
     ],
     "translations": {
       "ru": "причудливый",

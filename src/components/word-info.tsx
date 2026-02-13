@@ -1,6 +1,6 @@
 'use client'
 
-import { useRef } from 'react'
+import { useRef, useState } from 'react'
 import { LangCode, Word } from "@/lib/interfaces"
 import { Volume2 } from "lucide-react"
 
@@ -11,7 +11,10 @@ interface WordProps {
 export const WordInfo = ({ word }: WordProps) => {
     const audioRef = useRef<HTMLAudioElement | null>(null)
 
-    const langCodeMap: Record<string, string> = {
+    const [exampleLang, setExampleLang] = useState<LangCode>('en')
+
+    const langCodeMap: Record<LangCode, string> = {
+        en: 'English',
         ru: 'Russian',
         kk: 'Kazakh'
     }
@@ -60,11 +63,22 @@ export const WordInfo = ({ word }: WordProps) => {
             <p className="text-gray-700 mb-4">{word.definition}</p>
             {word.examples.length > 0 && (
                 <div>
-                    <h3 className="text-sm font-medium text-gray-500 mb-2">Examples:</h3>
+                    <div className="flex items-center gap-3 mb-2">
+                        <h3 className="text-sm font-medium text-gray-500">Examples:</h3>
+                        <select
+                            value={exampleLang}
+                            onChange={(e) => setExampleLang(e.target.value as LangCode)}
+                            className="text-sm bg-white border border-gray-300 rounded px-2 py-0.5 text-gray-600"
+                        >
+                            {Object.entries(langCodeMap).map(([code, name]) => (
+                                <option key={code} value={code}>{name}</option>
+                            ))}
+                        </select>
+                    </div>
                     <ul className="space-y-2">
                         {word.examples.map((example, index) => (
                             <li key={index} className="text-gray-600 italic pl-4 border-l-2 border-blue-200">
-                                &ldquo;{example}&rdquo;
+                                &ldquo;{example[exampleLang]}&rdquo;
                             </li>
                         ))}
                     </ul>
@@ -76,7 +90,7 @@ export const WordInfo = ({ word }: WordProps) => {
                     <ul className="space-y-2">
                         {Object.keys(word.translations).map((langCode, index) => (
                             <li key={index} className="text-gray-600 pl-4 border-l-2 border-blue-200">
-                                <b>{langCodeMap[langCode]}</b>: {word.translations[langCode as LangCode]}
+                                <b>{langCodeMap[langCode as LangCode]}</b>: {word.translations[langCode as LangCode]}
                             </li>
                         ))}
                     </ul>

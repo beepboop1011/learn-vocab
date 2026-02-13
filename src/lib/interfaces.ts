@@ -2,15 +2,17 @@ import { ObjectId } from 'mongodb'
 
 export type LangCode =  'en' | 'ru' | 'kk'
 
+export type TranslatedText = {
+    [key in LangCode]: string
+}
+
 export interface Word {
     _id: ObjectId
     word: string
     definition: string
     pronunciation: string
-    examples: string[]
-    translations: {
-        [key in LangCode]: string
-    }
+    examples: TranslatedText[]
+    translations: TranslatedText
     createdAt: Date
 }
 

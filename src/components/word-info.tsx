@@ -20,7 +20,7 @@ export const WordInfo = ({ word }: WordProps) => {
         const utterance = new SpeechSynthesisUtterance(word.word)
 
         // Tweak for single-word clarity (optional but helps pronunciation)
-        utterance.rate = 0.9
+        utterance.rate = 0.7
 
         // Clear anything stuck in queue
         window.speechSynthesis.cancel()

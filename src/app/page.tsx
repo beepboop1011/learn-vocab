@@ -95,9 +95,9 @@ const HomePage = () => {
 
                 {previousWords.length > 0 && (
                     <div className="mt-12">
-                        <div className="flex items center justify-between">
-                            <h2 className="text-2xl font-bold text-gray-800 mb-4">Previously Learned</h2>
-                            <p className="text-gray-400">{`${previousWords.length} words since ${new Date(previousWords[previousWords.length - 1].learnedAt).toDateString()}`}</p>
+                        <div className="flex flex-col md:flex-row md:items-center md:justify-between">
+                            <h2 className="text-2xl font-bold text-gray-800 mb-1 md:mb-4">Previously Learned</h2>
+                            <p className="text-gray-400 mb-1">{`${previousWords.length} words since ${new Date(previousWords[previousWords.length - 1].learnedAt).toDateString()}`}</p>
                         </div>
                         <div className="space-y-2">
                             {previousWords.map((word) => {

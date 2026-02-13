@@ -28,8 +28,12 @@ const HomePage = () => {
                 }
                 const data = await res.json()
                 setWords(data.words)
-                setPreviousWords(data.previousWords ?? [])
-            } catch {
+
+                const _previousWords = data.previousWords ?? []
+                _previousWords.sort((a: WordWithLearnedDate, b: WordWithLearnedDate) => new Date(b.learnedAt).getTime() - new Date(a.learnedAt).getTime())
+                setPreviousWords(_previousWords)
+            } catch (e) {
+                console.error(e)
                 setError('Failed to load words')
             } finally {
                 setLoading(false)
@@ -91,7 +95,10 @@ const HomePage = () => {
 
                 {previousWords.length > 0 && (
                     <div className="mt-12">
-                        <h2 className="text-2xl font-bold text-gray-800 mb-4">Previously Learned</h2>
+                        <div className="flex items center justify-between">
+                            <h2 className="text-2xl font-bold text-gray-800 mb-4">Previously Learned</h2>
+                            <p className="text-gray-400">{`${previousWords.length} words since ${new Date(previousWords[previousWords.length - 1].learnedAt).toDateString()}`}</p>
+                        </div>
                         <div className="space-y-2">
                             {previousWords.map((word) => {
                                 const id = word._id.toString()

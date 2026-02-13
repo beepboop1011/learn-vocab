@@ -15,7 +15,7 @@ export interface Word {
 }
 
 export interface WordWithLearnedDate extends Word {
-    learnedAt: Date
+    learnedAt: Date | string
 }
 
 export interface LearnedWord {

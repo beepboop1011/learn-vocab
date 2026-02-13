@@ -42,24 +42,26 @@ const main = async () => {
         const existing = await MongoManager.instance.getDocuments(WORDS_COLLECTION, { word: { $in: incomingWords } })
         const existingWords = new Set(existing.map(doc => doc.word))
 
-        const newWords = rawWords.filter(w => !existingWords.has(w.word))
+        const toInsert = rawWords.filter(w => !existingWords.has(w.word))
+        const toUpdate = rawWords.filter(w => existingWords.has(w.word))
 
-        if (existingWords.size > 0) {
-            console.log(`Skipping ${existingWords.size} words that already exist`)
+        let updatedCount = 0
+        for (const w of toUpdate) {
+            const { word, ...fields } = w
+            await MongoManager.instance.updateDocument(WORDS_COLLECTION, { word }, fields)
+            updatedCount++
         }
 
-        if (newWords.length === 0) {
-            console.log('No new words to import')
-            return
+        let insertedCount = 0
+        if (toInsert.length > 0) {
+            const docs = toInsert.map(w => ({
+                ...w,
+                createdAt: new Date(),
+            }))
+            insertedCount = await MongoManager.instance.insertDocuments(WORDS_COLLECTION, docs)
         }
 
-        const docs = newWords.map(w => ({
-            ...w,
-            createdAt: new Date(),
-        }))
-
-        const insertedCount = await MongoManager.instance.insertDocuments(WORDS_COLLECTION, docs)
-        console.log(`Inserted ${insertedCount} of ${rawWords.length} words`)
+        console.log(`Inserted ${insertedCount}, updated ${updatedCount} of ${rawWords.length} words`)
     } catch (error) {
         console.error('Error importing words:', error)
         process.exit(1)

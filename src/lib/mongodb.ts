@@ -58,6 +58,12 @@ class MongoManager {
         return result.insertedCount
     }
 
+    public async updateDocument(collName: string, query: Record<string, any>, update: Record<string, any>): Promise<boolean> {
+        const collection = this.db.collection(collName)
+        const result = await collection.updateOne(query, { $set: update })
+        return result.acknowledged
+    }
+
     public async getRandomDocuments(
         collName: string,
         query: Record<string, any>,

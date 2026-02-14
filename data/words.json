@@ -2,7 +2,7 @@
   {
     "word": "ambitious",
     "pronunciation": "am-BISH-us",
-    "definition": "Having a strong desire to succeed or achieve goals",
+    "definition": "Wanting very much to succeed or reach big goals",
     "examples": [
       {
         "en": "She is an ambitious entrepreneur who aims to expand her business globally.",
@@ -23,7 +23,7 @@
   {
     "word": "benevolent",
     "pronunciation": "buh-NEV-uh-lunt",
-    "definition": "Kind, generous, and caring about others' well-being",
+    "definition": "Kind and willing to help others",
     "examples": [
       {
         "en": "The benevolent donor contributed millions to charity.",
@@ -44,7 +44,7 @@
   {
     "word": "cautious",
     "pronunciation": "KAW-shus",
-    "definition": "Careful to avoid potential problems or dangers",
+    "definition": "Being very careful to avoid problems or danger",
     "examples": [
       {
         "en": "He was cautious when crossing the busy street.",
@@ -65,7 +65,7 @@
   {
     "word": "diligent",
     "pronunciation": "DIL-ih-junt",
-    "definition": "Showing careful and persistent work or effort",
+    "definition": "Working hard and paying close attention to what you do",
     "examples": [
       {
         "en": "She is a diligent student who always completes her assignments on time.",
@@ -86,7 +86,7 @@
   {
     "word": "eloquent",
     "pronunciation": "EL-uh-kwunt",
-    "definition": "Fluent and persuasive in speaking or writing",
+    "definition": "Very good at speaking or writing in a way that moves people",
     "examples": [
       {
         "en": "The eloquent speaker moved the audience to tears.",
@@ -107,7 +107,7 @@
   {
     "word": "frugal",
     "pronunciation": "FROO-gul",
-    "definition": "Economical in use or expenditure; not wasteful",
+    "definition": "Careful with money; not spending more than needed",
     "examples": [
       {
         "en": "He leads a frugal lifestyle to save money for the future.",
@@ -128,7 +128,7 @@
   {
     "word": "generous",
     "pronunciation": "JEN-ur-us",
-    "definition": "Willing to give more than is necessary or expected",
+    "definition": "Happy to give or share more than expected",
     "examples": [
       {
         "en": "She is generous with her time and always helps others.",
@@ -149,7 +149,7 @@
   {
     "word": "humble",
     "pronunciation": "HUM-bul",
-    "definition": "Having a modest view of one's own importance",
+    "definition": "Not thinking you are better or more important than others",
     "examples": [
       {
         "en": "Despite his success, he remained humble and down-to-earth.",
@@ -170,7 +170,7 @@
   {
     "word": "innovative",
     "pronunciation": "IN-uh-vay-tiv",
-    "definition": "Introducing new ideas or methods; creative",
+    "definition": "Coming up with new and creative ideas or ways of doing things",
     "examples": [
       {
         "en": "The company is known for its innovative product designs.",
@@ -191,7 +191,7 @@
   {
     "word": "jovial",
     "pronunciation": "JOH-vee-ul",
-    "definition": "Cheerful and friendly in manner",
+    "definition": "Happy, cheerful, and fun to be around",
     "examples": [
       {
         "en": "His jovial personality makes him popular at parties.",
@@ -212,7 +212,7 @@
   {
     "word": "keen",
     "pronunciation": "KEEN",
-    "definition": "Having or showing eagerness or enthusiasm",
+    "definition": "Very interested or excited about something",
     "examples": [
       {
         "en": "She has a keen interest in astronomy.",
@@ -254,7 +254,7 @@
   {
     "word": "meticulous",
     "pronunciation": "muh-TIK-yoo-lus",
-    "definition": "Showing great attention to detail; very careful",
+    "definition": "Paying very close attention to every small detail",
     "examples": [
       {
         "en": "The architect is meticulous in his planning.",
@@ -275,7 +275,7 @@
   {
     "word": "nostalgic",
     "pronunciation": "nah-STAL-jik",
-    "definition": "Experiencing a sentimental longing for the past",
+    "definition": "Feeling a warm sadness when you think about good times in the past",
     "examples": [
       {
         "en": "Looking at old photos made her feel nostalgic.",
@@ -296,7 +296,7 @@
   {
     "word": "optimistic",
     "pronunciation": "op-tih-MIS-tik",
-    "definition": "Hopeful and confident about the future",
+    "definition": "Believing that good things will happen in the future",
     "examples": [
       {
         "en": "She remains optimistic despite the challenges.",
@@ -317,7 +317,7 @@
   {
     "word": "persistent",
     "pronunciation": "pur-SIS-tunt",
-    "definition": "Continuing firmly despite difficulty or opposition",
+    "definition": "Keeping going even when things are hard",
     "examples": [
       {
         "en": "His persistent efforts finally paid off.",
@@ -338,7 +338,7 @@
   {
     "word": "quirky",
     "pronunciation": "KWUR-kee",
-    "definition": "Having unusual or unexpected characteristics",
+    "definition": "A little unusual or different, but in an interesting way",
     "examples": [
       {
         "en": "She has a quirky sense of humor that makes her unique.",
@@ -359,7 +359,7 @@
   {
     "word": "resilient",
     "pronunciation": "rih-ZIL-ee-unt",
-    "definition": "Able to recover quickly from difficulties",
+    "definition": "Able to get back to normal quickly after something bad happens",
     "examples": [
       {
         "en": "The resilient community rebuilt after the disaster.",
@@ -380,7 +380,7 @@
   {
     "word": "sophisticated",
     "pronunciation": "suh-FIS-tih-kay-tid",
-    "definition": "Complex, refined, or having worldly experience",
+    "definition": "Having a lot of knowledge or experience; complex and advanced",
     "examples": [
       {
         "en": "She wore a sophisticated evening gown to the gala.",
@@ -401,7 +401,7 @@
   {
     "word": "tranquil",
     "pronunciation": "TRANG-kwil",
-    "definition": "Calm, peaceful, and quiet",
+    "definition": "Very calm, peaceful, and quiet",
     "examples": [
       {
         "en": "The tranquil lake reflected the mountains perfectly.",
@@ -422,7 +422,7 @@
   {
     "word": "ubiquitous",
     "pronunciation": "yoo-BIK-wih-tus",
-    "definition": "Present or found everywhere",
+    "definition": "Found everywhere; very common",
     "examples": [
       {
         "en": "Smartphones have become ubiquitous in modern society.",
@@ -443,7 +443,7 @@
   {
     "word": "vivid",
     "pronunciation": "VIV-id",
-    "definition": "Producing strong, clear images in the mind; bright",
+    "definition": "Very bright, strong, or clear, especially in your mind",
     "examples": [
       {
         "en": "She has vivid memories of her childhood.",
@@ -464,7 +464,7 @@
   {
     "word": "wary",
     "pronunciation": "WAIR-ee",
-    "definition": "Feeling or showing caution about possible dangers",
+    "definition": "Careful because you think something might be dangerous or bad",
     "examples": [
       {
         "en": "He was wary of strangers asking for money.",
@@ -485,7 +485,7 @@
   {
     "word": "zealous",
     "pronunciation": "ZEL-us",
-    "definition": "Having or showing great energy or enthusiasm",
+    "definition": "Showing a lot of energy and strong feelings about something",
     "examples": [
       {
         "en": "She is a zealous advocate for environmental protection.",
@@ -506,7 +506,7 @@
   {
     "word": "articulate",
     "pronunciation": "ar-TIK-yoo-lut",
-    "definition": "Able to express ideas clearly and effectively",
+    "definition": "Able to explain thoughts and ideas clearly",
     "examples": [
       {
         "en": "She is an articulate speaker who presents complex ideas simply.",
@@ -527,7 +527,7 @@
   {
     "word": "astute",
     "pronunciation": "uh-STOOT",
-    "definition": "Having the ability to understand situations quickly",
+    "definition": "Good at quickly understanding situations and making smart choices",
     "examples": [
       {
         "en": "He made an astute observation about the market trends.",
@@ -548,7 +548,7 @@
   {
     "word": "candid",
     "pronunciation": "KAN-did",
-    "definition": "Truthful and straightforward; frank",
+    "definition": "Saying what you really think in an honest and direct way",
     "examples": [
       {
         "en": "She gave a candid interview about her struggles.",
@@ -569,7 +569,7 @@
   {
     "word": "compassionate",
     "pronunciation": "kum-PASH-un-ut",
-    "definition": "Feeling or showing sympathy and concern for others",
+    "definition": "Caring about other people when they are sad or in trouble",
     "examples": [
       {
         "en": "The compassionate nurse comforted the patients.",
@@ -590,7 +590,7 @@
   {
     "word": "concise",
     "pronunciation": "kun-SYSE",
-    "definition": "Giving information clearly in few words",
+    "definition": "Using few words to say something clearly",
     "examples": [
       {
         "en": "The report was concise and easy to understand.",
@@ -611,7 +611,7 @@
   {
     "word": "decisive",
     "pronunciation": "dih-SY-siv",
-    "definition": "Able to make decisions quickly and effectively",
+    "definition": "Able to make choices quickly and with confidence",
     "examples": [
       {
         "en": "She is a decisive leader who acts with confidence.",
@@ -632,7 +632,7 @@
   {
     "word": "durable",
     "pronunciation": "DOOR-uh-bul",
-    "definition": "Able to withstand wear, pressure, or damage",
+    "definition": "Strong enough to last a long time without breaking",
     "examples": [
       {
         "en": "These boots are made of durable leather.",
@@ -653,7 +653,7 @@
   {
     "word": "eccentric",
     "pronunciation": "ik-SEN-trik",
-    "definition": "Unconventional and slightly strange in behavior",
+    "definition": "Behaving in ways that are unusual or a bit strange",
     "examples": [
       {
         "en": "The eccentric artist lived in a colorful house.",
@@ -674,7 +674,7 @@
   {
     "word": "efficient",
     "pronunciation": "ih-FISH-unt",
-    "definition": "Achieving maximum productivity with minimum effort",
+    "definition": "Getting things done well without wasting time or effort",
     "examples": [
       {
         "en": "The new system is more efficient than the old one.",
@@ -695,7 +695,7 @@
   {
     "word": "empathetic",
     "pronunciation": "em-puh-THET-ik",
-    "definition": "Able to understand and share others' feelings",
+    "definition": "Able to understand how other people feel",
     "examples": [
       {
         "en": "An empathetic teacher can connect with struggling students.",
@@ -716,7 +716,7 @@
   {
     "word": "feasible",
     "pronunciation": "FEE-zuh-bul",
-    "definition": "Possible and practical to do or achieve",
+    "definition": "Can be done; realistic and possible",
     "examples": [
       {
         "en": "The plan seems feasible given our current resources.",
@@ -737,7 +737,7 @@
   {
     "word": "gracious",
     "pronunciation": "GRAY-shus",
-    "definition": "Courteous, kind, and pleasant",
+    "definition": "Polite, kind, and pleasant to others",
     "examples": [
       {
         "en": "She was a gracious host who made everyone feel welcome.",
@@ -758,7 +758,7 @@
   {
     "word": "harmonious",
     "pronunciation": "har-MOH-nee-us",
-    "definition": "Free from disagreement or conflict; forming a pleasing whole",
+    "definition": "Working well together without fighting or disagreement",
     "examples": [
       {
         "en": "They have a harmonious relationship built on mutual respect.",
@@ -779,7 +779,7 @@
   {
     "word": "impartial",
     "pronunciation": "im-PAR-shul",
-    "definition": "Fair and unbiased; not favoring one side",
+    "definition": "Treating everyone fairly and not picking sides",
     "examples": [
       {
         "en": "The judge remained impartial throughout the trial.",
@@ -800,7 +800,7 @@
   {
     "word": "industrious",
     "pronunciation": "in-DUS-tree-us",
-    "definition": "Hardworking and diligent",
+    "definition": "Working very hard",
     "examples": [
       {
         "en": "The industrious student spent hours studying for exams.",
@@ -821,7 +821,7 @@
   {
     "word": "intuitive",
     "pronunciation": "in-TOO-ih-tiv",
-    "definition": "Using or based on instinctive understanding",
+    "definition": "Understanding something naturally, without needing to think about it",
     "examples": [
       {
         "en": "The app has an intuitive interface that's easy to use.",
@@ -842,7 +842,7 @@
   {
     "word": "judicious",
     "pronunciation": "joo-DISH-us",
-    "definition": "Having or showing good judgment; wise",
+    "definition": "Making careful and smart decisions",
     "examples": [
       {
         "en": "He made a judicious decision to wait before investing.",
@@ -863,7 +863,7 @@
   {
     "word": "meager",
     "pronunciation": "MEE-gur",
-    "definition": "Lacking in quantity or quality; insufficient",
+    "definition": "Too small or too little; not enough",
     "examples": [
       {
         "en": "They survived on meager rations during the journey.",
@@ -884,7 +884,7 @@
   {
     "word": "methodical",
     "pronunciation": "muh-THOD-ih-kul",
-    "definition": "Done according to a systematic procedure",
+    "definition": "Doing things in a careful, step-by-step way",
     "examples": [
       {
         "en": "She has a methodical approach to problem-solving.",
@@ -905,7 +905,7 @@
   {
     "word": "modest",
     "pronunciation": "MOD-ist",
-    "definition": "Unassuming in appearance or behavior; humble",
+    "definition": "Not talking about yourself or your skills too much; simple and not fancy",
     "examples": [
       {
         "en": "Despite her achievements, she remained modest.",
@@ -926,7 +926,7 @@
   {
     "word": "nonchalant",
     "pronunciation": "non-shuh-LAHNT",
-    "definition": "Casually calm and relaxed; not displaying anxiety",
+    "definition": "Looking calm and relaxed, as if nothing bothers you",
     "examples": [
       {
         "en": "He gave a nonchalant shrug when asked about the incident.",
@@ -947,7 +947,7 @@
   {
     "word": "objective",
     "pronunciation": "ub-JEK-tiv",
-    "definition": "Not influenced by personal feelings; impartial",
+    "definition": "Based on facts, not on personal feelings or opinions",
     "examples": [
       {
         "en": "The journalist tried to maintain an objective perspective.",
@@ -968,7 +968,7 @@
   {
     "word": "perceptive",
     "pronunciation": "pur-SEP-tiv",
-    "definition": "Having or showing insight and understanding",
+    "definition": "Good at noticing things that other people might miss",
     "examples": [
       {
         "en": "She is perceptive and notices things others miss.",
@@ -989,7 +989,7 @@
   {
     "word": "pragmatic",
     "pronunciation": "prag-MAT-ik",
-    "definition": "Dealing with things practically and realistically",
+    "definition": "Focused on what works in real life, not just ideas",
     "examples": [
       {
         "en": "She took a pragmatic approach to solving the problem.",
@@ -1010,7 +1010,7 @@
   {
     "word": "prudent",
     "pronunciation": "PROO-dunt",
-    "definition": "Acting with care and thought for the future",
+    "definition": "Thinking carefully about the future before making choices",
     "examples": [
       {
         "en": "It would be prudent to save money for emergencies.",
@@ -1031,7 +1031,7 @@
   {
     "word": "reliable",
     "pronunciation": "rih-LY-uh-bul",
-    "definition": "Consistently good in quality or performance",
+    "definition": "Can be trusted to do things well every time",
     "examples": [
       {
         "en": "He is a reliable employee who never misses deadlines.",
@@ -1052,7 +1052,7 @@
   {
     "word": "resourceful",
     "pronunciation": "rih-ZORS-ful",
-    "definition": "Able to find quick and clever ways to overcome difficulties",
+    "definition": "Good at finding clever ways to solve problems",
     "examples": [
       {
         "en": "The resourceful engineer fixed the machine with spare parts.",
@@ -1073,7 +1073,7 @@
   {
     "word": "serene",
     "pronunciation": "suh-REEN",
-    "definition": "Calm, peaceful, and untroubled",
+    "definition": "Very calm and peaceful, without any worry",
     "examples": [
       {
         "en": "She had a serene expression on her face.",
@@ -1094,7 +1094,7 @@
   {
     "word": "sincere",
     "pronunciation": "sin-SEER",
-    "definition": "Free from pretense or deceit; genuine",
+    "definition": "Really meaning what you say or do; honest and true",
     "examples": [
       {
         "en": "She gave a sincere apology for her mistake.",
@@ -1115,7 +1115,7 @@
   {
     "word": "spontaneous",
     "pronunciation": "spon-TAY-nee-us",
-    "definition": "Happening or done naturally without planning",
+    "definition": "Doing something without planning it ahead of time",
     "examples": [
       {
         "en": "They took a spontaneous road trip over the weekend.",
@@ -1136,7 +1136,7 @@
   {
     "word": "tactful",
     "pronunciation": "TAKT-ful",
-    "definition": "Having skill in dealing with difficult situations",
+    "definition": "Good at saying or doing things without upsetting people",
     "examples": [
       {
         "en": "She gave tactful criticism that didn't offend anyone.",
@@ -1157,7 +1157,7 @@
   {
     "word": "tenacious",
     "pronunciation": "tuh-NAY-shus",
-    "definition": "Persistent and determined; not giving up easily",
+    "definition": "Not giving up, even when things are very difficult",
     "examples": [
       {
         "en": "Her tenacious spirit helped her overcome many obstacles.",
@@ -1178,7 +1178,7 @@
   {
     "word": "versatile",
     "pronunciation": "VUR-suh-tyl",
-    "definition": "Able to adapt to many different functions or activities",
+    "definition": "Able to do many different things well",
     "examples": [
       {
         "en": "He is a versatile actor who plays many different roles.",
@@ -1199,7 +1199,7 @@
   {
     "word": "vigorous",
     "pronunciation": "VIG-ur-us",
-    "definition": "Strong, healthy, and full of energy",
+    "definition": "Full of energy and strength",
     "examples": [
       {
         "en": "She maintains her health through vigorous exercise.",
@@ -1220,7 +1220,7 @@
   {
     "word": "witty",
     "pronunciation": "WIT-ee",
-    "definition": "Showing quick and inventive verbal humor",
+    "definition": "Funny in a quick and clever way",
     "examples": [
       {
         "en": "His witty remarks always make people laugh.",
@@ -1241,7 +1241,7 @@
   {
     "word": "adamant",
     "pronunciation": "AD-uh-munt",
-    "definition": "Refusing to change one's mind; firm",
+    "definition": "Refusing to change your mind about something",
     "examples": [
       {
         "en": "She was adamant that the meeting should be postponed.",
@@ -1262,7 +1262,7 @@
   {
     "word": "affable",
     "pronunciation": "AF-uh-bul",
-    "definition": "Friendly, good-natured, and easy to talk to",
+    "definition": "Friendly and easy to talk to",
     "examples": [
       {
         "en": "The affable host made everyone feel at ease.",
@@ -1283,7 +1283,7 @@
   {
     "word": "agile",
     "pronunciation": "AJ-ul",
-    "definition": "Able to move quickly and easily; mentally quick",
+    "definition": "Able to move quickly and easily; quick at thinking",
     "examples": [
       {
         "en": "The agile gymnast performed impressive flips.",
@@ -1304,7 +1304,7 @@
   {
     "word": "ardent",
     "pronunciation": "AR-dunt",
-    "definition": "Enthusiastic or passionate about something",
+    "definition": "Having very strong feelings or excitement about something",
     "examples": [
       {
         "en": "She is an ardent supporter of environmental causes.",
@@ -1325,7 +1325,7 @@
   {
     "word": "auspicious",
     "pronunciation": "aw-SPISH-us",
-    "definition": "Indicating a good chance of success; favorable",
+    "definition": "Showing signs that something good is likely to happen",
     "examples": [
       {
         "en": "The project had an auspicious beginning.",
@@ -1346,7 +1346,7 @@
   {
     "word": "austere",
     "pronunciation": "aw-STEER",
-    "definition": "Severe or strict in manner; without comfort",
+    "definition": "Very simple and plain, without anything extra or comfortable",
     "examples": [
       {
         "en": "The monastery had austere living conditions.",
@@ -1367,7 +1367,7 @@
   {
     "word": "brisk",
     "pronunciation": "BRISK",
-    "definition": "Active, fast, and energetic",
+    "definition": "Quick, active, and full of energy",
     "examples": [
       {
         "en": "They took a brisk walk in the morning air.",
@@ -1388,7 +1388,7 @@
   {
     "word": "coherent",
     "pronunciation": "koh-HEER-unt",
-    "definition": "Logical, consistent, and easy to understand",
+    "definition": "Making sense and easy to follow",
     "examples": [
       {
         "en": "She presented a coherent argument for the proposal.",
@@ -1409,7 +1409,7 @@
   {
     "word": "conscientious",
     "pronunciation": "kon-shee-EN-shus",
-    "definition": "Wishing to do what is right; careful and thorough",
+    "definition": "Wanting to do things the right way; careful and thorough",
     "examples": [
       {
         "en": "He is a conscientious worker who takes pride in his job.",
@@ -1430,7 +1430,7 @@
   {
     "word": "cordial",
     "pronunciation": "KOR-jul",
-    "definition": "Warm and friendly in manner",
+    "definition": "Warm and friendly",
     "examples": [
       {
         "en": "They received a cordial welcome from their hosts.",
@@ -1451,7 +1451,7 @@
   {
     "word": "credible",
     "pronunciation": "KRED-uh-bul",
-    "definition": "Able to be believed; convincing",
+    "definition": "Easy to believe; trustworthy",
     "examples": [
       {
         "en": "She is a credible witness with no reason to lie.",
@@ -1472,7 +1472,7 @@
   {
     "word": "delicate",
     "pronunciation": "DEL-ih-kut",
-    "definition": "Easily broken or damaged; requiring careful handling",
+    "definition": "Easy to break or damage; needing to be handled carefully",
     "examples": [
       {
         "en": "Handle the delicate glassware with care.",
@@ -1493,7 +1493,7 @@
   {
     "word": "discreet",
     "pronunciation": "dih-SKREET",
-    "definition": "Careful not to cause embarrassment or attract attention",
+    "definition": "Careful to keep things private and not draw attention",
     "examples": [
       {
         "en": "She was discreet about her personal life.",
@@ -1514,7 +1514,7 @@
   {
     "word": "dynamic",
     "pronunciation": "dy-NAM-ik",
-    "definition": "Full of energy and new ideas; constantly changing",
+    "definition": "Full of energy, ideas, and activity; always changing",
     "examples": [
       {
         "en": "She is a dynamic leader who inspires her team.",
@@ -1535,7 +1535,7 @@
   {
     "word": "explicit",
     "pronunciation": "ik-SPLIS-it",
-    "definition": "Stated clearly and in detail, leaving no room for confusion",
+    "definition": "Said very clearly so there is no confusion",
     "examples": [
       {
         "en": "The instructions were explicit and easy to follow.",
@@ -1556,7 +1556,7 @@
   {
     "word": "fervent",
     "pronunciation": "FUR-vunt",
-    "definition": "Having or displaying passionate intensity",
+    "definition": "Showing very strong and deep feelings about something",
     "examples": [
       {
         "en": "She made a fervent plea for peace.",
@@ -1577,7 +1577,7 @@
   {
     "word": "formidable",
     "pronunciation": "FOR-mid-uh-bul",
-    "definition": "Inspiring fear or respect through being large or powerful",
+    "definition": "So strong or impressive that it makes you feel respect or even fear",
     "examples": [
       {
         "en": "She is a formidable opponent in debates.",
@@ -1598,7 +1598,7 @@
   {
     "word": "gregarious",
     "pronunciation": "grih-GAIR-ee-us",
-    "definition": "Fond of company; sociable",
+    "definition": "Enjoying being around other people; very social",
     "examples": [
       {
         "en": "He has a gregarious personality and loves parties.",
@@ -1619,7 +1619,7 @@
   {
     "word": "impeccable",
     "pronunciation": "im-PEK-uh-bul",
-    "definition": "In accordance with the highest standards; faultless",
+    "definition": "Perfect, with no mistakes at all",
     "examples": [
       {
         "en": "She has impeccable taste in fashion.",
@@ -1640,7 +1640,7 @@
   {
     "word": "innate",
     "pronunciation": "ih-NAYT",
-    "definition": "Inborn; natural rather than learned",
+    "definition": "Something you are born with, not something you learned",
     "examples": [
       {
         "en": "She has an innate talent for music.",
@@ -1661,7 +1661,7 @@
   {
     "word": "lavish",
     "pronunciation": "LAV-ish",
-    "definition": "Very rich, elaborate, or luxurious",
+    "definition": "Very expensive, fancy, or given in large amounts",
     "examples": [
       {
         "en": "They hosted a lavish wedding ceremony.",
@@ -1682,7 +1682,7 @@
   {
     "word": "lenient",
     "pronunciation": "LEE-nee-unt",
-    "definition": "Permissive, merciful, or tolerant",
+    "definition": "Not strict; allowing more than others might",
     "examples": [
       {
         "en": "The teacher was lenient with late assignments.",
@@ -1703,7 +1703,7 @@
   {
     "word": "adept",
     "pronunciation": "uh-DEPT",
-    "definition": "Very skilled or proficient at something",
+    "definition": "Very good at doing something",
     "examples": [
       {
         "en": "She is adept at handling difficult conversations.",
@@ -1724,7 +1724,7 @@
   {
     "word": "benign",
     "pronunciation": "bih-NYNE",
-    "definition": "Gentle and kind; not harmful",
+    "definition": "Not harmful; gentle and kind",
     "examples": [
       {
         "en": "The doctor confirmed the tumor was benign.",
@@ -1745,7 +1745,7 @@
   {
     "word": "cognizant",
     "pronunciation": "KOG-nih-zunt",
-    "definition": "Having knowledge or awareness of something",
+    "definition": "Knowing about or aware of something",
     "examples": [
       {
         "en": "She was cognizant of the risks before making her decision.",
@@ -1766,7 +1766,7 @@
   {
     "word": "debonair",
     "pronunciation": "deb-uh-NAIR",
-    "definition": "Confident, stylish, and charming in manner",
+    "definition": "Looking and acting stylish, confident, and charming",
     "examples": [
       {
         "en": "The debonair gentleman impressed everyone at the gala.",
@@ -1787,7 +1787,7 @@
   {
     "word": "enigmatic",
     "pronunciation": "en-ig-MAT-ik",
-    "definition": "Mysterious and difficult to understand",
+    "definition": "Hard to understand; full of mystery",
     "examples": [
       {
         "en": "The enigmatic painting left viewers puzzled for centuries.",
@@ -1808,7 +1808,7 @@
   {
     "word": "fastidious",
     "pronunciation": "fa-STID-ee-us",
-    "definition": "Very attentive to accuracy and detail",
+    "definition": "Caring a lot about every detail being exactly right",
     "examples": [
       {
         "en": "She is fastidious about keeping her workspace clean.",
@@ -1829,7 +1829,7 @@
   {
     "word": "gallant",
     "pronunciation": "GAL-unt",
-    "definition": "Brave, heroic, and chivalrous",
+    "definition": "Brave and showing respect for others",
     "examples": [
       {
         "en": "The gallant firefighter rescued the family from the blaze.",
@@ -1850,7 +1850,7 @@
   {
     "word": "intrepid",
     "pronunciation": "in-TREP-id",
-    "definition": "Fearless and adventurous",
+    "definition": "Very brave and not afraid of danger",
     "examples": [
       {
         "en": "The intrepid explorer ventured deep into the jungle.",
@@ -1871,7 +1871,7 @@
   {
     "word": "jubilant",
     "pronunciation": "JOO-bih-lunt",
-    "definition": "Feeling or expressing great happiness and triumph",
+    "definition": "Feeling or showing very great happiness",
     "examples": [
       {
         "en": "The jubilant crowd celebrated the team's victory.",
@@ -1892,7 +1892,7 @@
   {
     "word": "magnanimous",
     "pronunciation": "mag-NAN-ih-mus",
-    "definition": "Very generous or forgiving, especially toward a rival",
+    "definition": "Very generous and forgiving, especially to someone who lost or did wrong",
     "examples": [
       {
         "en": "The magnanimous winner congratulated his opponent warmly.",
@@ -1913,7 +1913,7 @@
   {
     "word": "nimble",
     "pronunciation": "NIM-bul",
-    "definition": "Quick and light in movement or thought",
+    "definition": "Able to move or think quickly and easily",
     "examples": [
       {
         "en": "The nimble dancer moved gracefully across the stage.",
@@ -1934,7 +1934,7 @@
   {
     "word": "opulent",
     "pronunciation": "OP-yoo-lunt",
-    "definition": "Ostentatiously rich and luxurious",
+    "definition": "Very rich-looking and luxurious",
     "examples": [
       {
         "en": "The hotel lobby had an opulent design with marble floors.",
@@ -1955,7 +1955,7 @@
   {
     "word": "pensive",
     "pronunciation": "PEN-siv",
-    "definition": "Engaged in deep or serious thought",
+    "definition": "Thinking deeply and quietly about something",
     "examples": [
       {
         "en": "She sat in pensive silence, staring out the window.",
@@ -1976,7 +1976,7 @@
   {
     "word": "quintessential",
     "pronunciation": "kwin-tuh-SEN-shul",
-    "definition": "Representing the most perfect example of something",
+    "definition": "The best or most typical example of something",
     "examples": [
       {
         "en": "She is the quintessential professional in her field.",
@@ -1997,7 +1997,7 @@
   {
     "word": "revered",
     "pronunciation": "rih-VEERD",
-    "definition": "Deeply respected and admired",
+    "definition": "Respected and admired very much",
     "examples": [
       {
         "en": "The revered professor was known for his groundbreaking research.",
@@ -2018,7 +2018,7 @@
   {
     "word": "stoic",
     "pronunciation": "STOH-ik",
-    "definition": "Enduring pain or hardship without showing emotion",
+    "definition": "Staying calm and not showing feelings, even when things are hard",
     "examples": [
       {
         "en": "He remained stoic throughout the difficult trial.",
@@ -2039,7 +2039,7 @@
   {
     "word": "tenuous",
     "pronunciation": "TEN-yoo-us",
-    "definition": "Very weak or slight; lacking substance",
+    "definition": "Very weak or not very convincing",
     "examples": [
       {
         "en": "The connection between the two events was tenuous at best.",
@@ -2060,7 +2060,7 @@
   {
     "word": "voracious",
     "pronunciation": "vor-AY-shus",
-    "definition": "Having a very eager approach to an activity",
+    "definition": "Wanting a lot of something; having a very strong desire",
     "examples": [
       {
         "en": "She is a voracious reader who finishes a book every week.",
@@ -2081,7 +2081,7 @@
   {
     "word": "whimsical",
     "pronunciation": "WIM-zih-kul",
-    "definition": "Playfully quaint or fanciful, especially in an appealing way",
+    "definition": "Fun, playful, and a little bit like a fairy tale",
     "examples": [
       {
         "en": "The children's book had whimsical illustrations.",

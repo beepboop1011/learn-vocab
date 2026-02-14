@@ -2,3 +2,4 @@ node_modules
 .claude
 .env*
 .next
+src/scripts/test.ts
